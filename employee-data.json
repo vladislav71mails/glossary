@@ -30,7 +30,7 @@
       "department": "IT"
     },
     {
-      "fullName": "Ивасенко Александр",
+      "fullName": "Александр Ивасенко",
       "grade": "Старший инженер",
       "position": "Старший инженер",
       "taskComplexity": "Hard",
@@ -410,3 +410,4 @@
     }
   }
 }
+
