@@ -1,0 +1,412 @@
+{
+  "lastUpdate": "2024-01-15",
+  "employees": [
+    {
+      "fullName": "Канаева Ольга",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+	    {
+      "fullName": "Владислав Колотилов",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Олег Жабин ",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Микулин Николай",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Александр Ивасенко",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Онищук Александр",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Коцинян Карен",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Шаманаева Юлия",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Яловая Александра",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Захаров Денис",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Пакелин Олег",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Ткаченко Кирилл",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Коновалов Константин",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Гаршин Иван",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Кудревич Алексей",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Любин Юрий",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Рязанцев Игорь",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Хорин Александр",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Суетин Владислав",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Прохин Евгений",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Синьков Никита",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Маркиянов Сергей",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Терехов Дмитрий",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Кондратьев Дмитрий",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Башаев Дмитрий",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Мухтаруллин Руслан",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Бусахин Александр",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Жгутов Дмитрий",
+      "grade": "Старший инженер",
+      "position": "Старший инженер",
+      "taskComplexity": "Hard",
+      "department": "IT"
+    },
+    {
+      "fullName": "Знаменский Сергей",
+      "grade": "Инженер",
+      "position": "Инженер",
+      "taskComplexity": "Medium",
+      "department": "IT"
+    },
+    {
+      "fullName": "Бенников Михаил",
+      "grade": "Инженер",
+      "position": "Инженер",
+      "taskComplexity": "Medium",
+      "department": "IT"
+    },
+    {
+      "fullName": "Конаков Евгений",
+      "grade": "Инженер",
+      "position": "Инженер",
+      "taskComplexity": "Medium",
+      "department": "IT"
+    },
+    {
+      "fullName": "Васильев Павел",
+      "grade": "Инженер",
+      "position": "Инженер",
+      "taskComplexity": "Medium",
+      "department": "IT"
+    },
+    {
+      "fullName": "Трифонова Маргарита",
+      "grade": "Инженер",
+      "position": "Инженер",
+      "taskComplexity": "Medium",
+      "department": "IT"
+    },
+    {
+      "fullName": "Гнитецкая Виктория",
+      "grade": "Инженер",
+      "position": "Инженер",
+      "taskComplexity": "Medium",
+      "department": "IT"
+    },
+    {
+      "fullName": "Андрианова Виктория",
+      "grade": "Инженер",
+      "position": "Инженер",
+      "taskComplexity": "Medium",
+      "department": "IT"
+    },
+    {
+      "fullName": "Горский Артем",
+      "grade": "Инженер",
+      "position": "Инженер",
+      "taskComplexity": "Medium",
+      "department": "IT"
+    },
+    {
+      "fullName": "Емтыль Арсений",
+      "grade": "Инженер",
+      "position": "Инженер",
+      "taskComplexity": "Medium",
+      "department": "IT"
+    },
+    {
+      "fullName": "Машков Дмитрий",
+      "grade": "Инженер",
+      "position": "Инженер",
+      "taskComplexity": "Medium",
+      "department": "IT"
+    },
+    {
+      "fullName": "Жуков Даниил",
+      "grade": "Инженер",
+      "position": "Инженер",
+      "taskComplexity": "Medium",
+      "department": "IT"
+    },
+    {
+      "fullName": "Симонов Данила",
+      "grade": "Инженер",
+      "position": "Инженер",
+      "taskComplexity": "Medium",
+      "department": "IT"
+    },
+    {
+      "fullName": "Жучков Роман",
+      "grade": "Инженер",
+      "position": "Инженер",
+      "taskComplexity": "Medium",
+      "department": "IT"
+    },
+    {
+      "fullName": "Сафонов Владислав",
+      "grade": "Инженер",
+      "position": "Инженер",
+      "taskComplexity": "Medium",
+      "department": "IT"
+    },
+    {
+      "fullName": "Савченко Максим",
+      "grade": "Инженер",
+      "position": "Инженер",
+      "taskComplexity": "Medium",
+      "department": "IT"
+    },
+    {
+      "fullName": "Ороховский Максим",
+      "grade": "Младший инженер",
+      "position": "Младший инженер",
+      "taskComplexity": "Start",
+      "department": "IT"
+    },
+    {
+      "fullName": "Шилкин Илья",
+      "grade": "Младший инженер",
+      "position": "Младший инженер",
+      "taskComplexity": "Start",
+      "department": "IT"
+    },
+    {
+      "fullName": "Веневцев Никита",
+      "grade": "Младший инженер",
+      "position": "Младший инженер",
+      "taskComplexity": "Start",
+      "department": "IT"
+    },
+    {
+      "fullName": "Дроздов Дмитрий",
+      "grade": "Младший инженер",
+      "position": "Младший инженер",
+      "taskComplexity": "Start",
+      "department": "IT"
+    },
+    {
+      "fullName": "Тетерина Анастасия",
+      "grade": "Младший инженер",
+      "position": "Младший инженер",
+      "taskComplexity": "Start",
+      "department": "IT"
+    },
+    {
+      "fullName": "Холхалова Алина",
+      "grade": "Младший инженер",
+      "position": "Младший инженер",
+      "taskComplexity": "Start",
+      "department": "IT"
+    },
+    {
+      "fullName": "Максимов Максим",
+      "grade": "Младший инженер",
+      "position": "Младший инженер",
+      "taskComplexity": "Start",
+      "department": "IT"
+    }
+  ],
+  "grades": {
+    "Младший инженер": {
+      "minSalary": 50000,
+      "maxSalary": 70000,
+      "hourlyRate": 139.33,
+      "taskComplexity": ["Easy", "Medium"]
+    },
+    "Инженер": {
+      "minSalary": 70000,
+      "maxSalary": 100000,
+      "hourlyRate": 195.05,
+      "taskComplexity": ["Medium", "Hard"]
+    },
+    "Старший инженер": {
+      "minSalary": 100000,
+      "maxSalary": 140000,
+      "hourlyRate": 290.15,
+      "taskComplexity": ["Hard"]
+    }
+  },
+  "positions": [
+    "Младший инженер",
+    "Инженер", 
+    "Старший инженер"
+  ],
+  "taskComplexityLevels": [
+    "Easy",
+    "Medium",
+    "Hard"
+  ],
+  "salarySettings": {
+    "workingHoursPerMonth": 160,
+    "normativeBonus": 5000,
+    "taxRate": 13,
+    "overtimeRates": {
+      "firstTwoHours": 1.5,
+      "remainingHours": 2.0
+    },
+    "taskBonusRates": {
+      "Easy": 45.98,
+      "Medium": 60.00,
+      "Hard": 90.00
+    },
+    "normativeRates": {
+      "Младший инженер": {
+        "Easy": 3448,
+        "Medium": 9195
+      },
+      "Инженер": {
+        "Medium": 5748,
+        "Hard": 13794
+      },
+      "Старший инженер": {
+        "Hard": 18391
+      }
+    }
+  }
+}
