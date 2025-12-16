@@ -1,0 +1,214 @@
+{
+  "version": "2.1",
+  "lastUpdate": "2025-12-16",
+  "employees": [
+    {
+      "fullName": "Владислав Колотилов",
+      "accessLines": ["first-line", "second-line"]
+    },
+    {
+      "fullName": "Канаева Ольга"
+    },
+    {
+      "fullName": "Олег Жабин"
+    },
+    {
+      "fullName": "Микулин Николай"
+    },
+    {
+      "fullName": "Александр Ивасенко"
+    },
+    {
+      "fullName": "Онищук Александр"
+    },
+    {
+      "fullName": "Коцинян Карен"
+    },
+    {
+      "fullName": "Шаманаева Юлия"
+    },
+    {
+      "fullName": "Яловая Александра"
+    },
+    {
+      "fullName": "Захаров Денис"
+    },
+    {
+      "fullName": "Пакелин Олег"
+    },
+    {
+      "fullName": "Ткаченко Кирилл"
+    },
+    {
+      "fullName": "Коновалов Константин"
+    },
+    {
+      "fullName": "Гаршин Иван"
+    },
+    {
+      "fullName": "Кудревич Алексей"
+    },
+    {
+      "fullName": "Любин Юрий"
+    },
+    {
+      "fullName": "Рязанцев Игорь"
+    },
+    {
+      "fullName": "Хорин Александр"
+    },
+    {
+      "fullName": "Суетин Владислав"
+    },
+    {
+      "fullName": "Прохин Евгений"
+    },
+    {
+      "fullName": "Синьков Никита"
+    },
+    {
+      "fullName": "Маркиянов Сергей"
+    },
+    {
+      "fullName": "Терехов Дмитрий"
+    },
+    {
+      "fullName": "Кондратьев Дмитрий"
+    },
+    {
+      "fullName": "Башаев Дмитрий"
+    },
+    {
+      "fullName": "Мухтаруллин Руслан"
+    },
+    {
+      "fullName": "Бусахин Александр"
+    },
+    {
+      "fullName": "Жгутов Дмитрий"
+    },
+    {
+      "fullName": "Знаменский Сергей"
+    },
+    {
+      "fullName": "Бенников Михаил"
+    },
+    {
+      "fullName": "Конаков Евгений"
+    },
+    {
+      "fullName": "Васильев Павел"
+    },
+    {
+      "fullName": "Трифонова Маргарита"
+    },
+    {
+      "fullName": "Гнитецкая Виктория"
+    },
+    {
+      "fullName": "Андрианова Виктория"
+    },
+    {
+      "fullName": "Горский Артем"
+    },
+    {
+      "fullName": "Емтыль Арсений"
+    },
+    {
+      "fullName": "Машков Дмитрий"
+    },
+    {
+      "fullName": "Жуков Даниил"
+    },
+    {
+      "fullName": "Симонов Данила"
+    },
+    {
+      "fullName": "Жучков Роман"
+    },
+    {
+      "fullName": "Сафонов Владислав"
+    },
+    {
+      "fullName": "Савченко Максим"
+    },
+    {
+      "fullName": "Ороховский Максим"
+    },
+    {
+      "fullName": "Шилкин Илья"
+    },
+    {
+      "fullName": "Веневцев Никита"
+    },
+    {
+      "fullName": "Дроздов Дмитрий"
+    },
+    {
+      "fullName": "Тетерина Анастасия"
+    },
+    {
+      "fullName": "Холхалова Алина"
+    },
+    {
+      "fullName": "Максимов Максим"
+    }
+  ],
+  "grades": {
+    "Младший инженер": {
+      "minSalary": 50000,
+      "maxSalary": 70000,
+      "hourlyRate": 139.33,
+      "taskComplexity": ["Easy", "Medium"]
+    },
+    "Инженер": {
+      "minSalary": 70000,
+      "maxSalary": 100000,
+      "hourlyRate": 195.05,
+      "taskComplexity": ["Medium", "Hard"]
+    },
+    "Старший инженер": {
+      "minSalary": 100000,
+      "maxSalary": 140000,
+      "hourlyRate": 290.15,
+      "taskComplexity": ["Hard"]
+    }
+  },
+  "positions": [
+    "Младший инженер",
+    "Инженер",
+    "Старший инженер"
+  ],
+  "taskComplexityLevels": [
+    "Easy",
+    "Medium",
+    "Hard"
+  ],
+  "salarySettings": {
+    "workingHoursPerMonth": 160,
+    "normativeBonus": 5000,
+    "taxRate": 13,
+    "overtimeRates": {
+      "firstTwoHours": 1.5,
+      "remainingHours": 2.0
+    },
+    "taskBonusRates": {
+      "Easy": 45.98,
+      "Medium": 60.00,
+      "Hard": 90.00
+    },
+    "normativeRates": {
+      "Младший инженер": {
+        "Easy": 3448,
+        "Medium": 9195
+      },
+      "Инженер": {
+        "Medium": 5748,
+        "Hard": 13794
+      },
+      "Старший инженер": {
+        "Hard": 18391
+      }
+    }
+  }
+}
