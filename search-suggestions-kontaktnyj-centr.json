@@ -1,0 +1,1152 @@
+{
+  "suggestions": {
+    "Маркировка": {
+      "quickAnswer": "Инструкции и ответы по работе с маркировкой товаров в 1С (честный знак, коды маркировки, типовые сценарии).",
+      "links": [
+        {
+          "text": "Маркировка",
+          "url": "https://corp-portal.tula.scloud.ru/docs/voprosy-po-funkcionalu-1s/markirovka/"
+        }
+      ],
+      "priority": 4
+    },
+    "Частые вопросы внутри программы": {
+      "quickAnswer": "Подборка частых вопросов по функционалу 1С, с которыми чаще всего обращаются клиенты в КЦ.",
+      "links": [
+        {
+          "text": "Частые вопросы внутри программы",
+          "url": "https://corp-portal.tula.scloud.ru/docs/voprosy-po-funkcionalu-1s/chastye-voprosy-vnutri-programmy/"
+        }
+      ],
+      "priority": 3
+    },
+    "Оферта": {
+      "quickAnswer": "Текст оферты и условия предоставления услуг ServiceCloud.",
+      "links": [
+        {
+          "text": "Оферта",
+          "url": "https://corp-portal.tula.scloud.ru/docs/vnutrennyaya_informaciya_po_kompanii/oferta/"
+        }
+      ],
+      "priority": 2
+    },
+    "Реквизиты и контакты": {
+      "quickAnswer": "Юридические реквизиты компании и контакты для клиентов и партнёров.",
+      "links": [
+        {
+          "text": "Наши реквизиты и контакты",
+          "url": "https://corp-portal.tula.scloud.ru/docs/vnutrennyaya_informaciya_po_kompanii/nashi-rekvizity-i-kontakty/"
+        }
+      ],
+      "priority": 3
+    },
+    "БухАРМ": {
+      "quickAnswer": "Описание продукта БухАРМ (SmartConsult): возможности и сценарии продажи/подключения.",
+      "links": [
+        {
+          "text": "БухАРМ",
+          "url": "https://corp-portal.tula.scloud.ru/docs/predostavlyaemye_produkty/smartconsult/"
+        }
+      ],
+      "priority": 3
+    },
+    "Сервиском": {
+      "quickAnswer": "Информация о продукте Сервиском для операторов КЦ.",
+      "links": [
+        {
+          "text": "Сервиском",
+          "url": "https://corp-portal.tula.scloud.ru/docs/predostavlyaemye_produkty/serviskom/"
+        }
+      ],
+      "priority": 2
+    },
+    "1С Fresh": {
+      "quickAnswer": "Особенности сервиса 1С Fresh, отличия от аренды 1С в ServiceCloud, что говорить клиенту.",
+      "links": [
+        {
+          "text": "1С Fresh",
+          "url": "https://corp-portal.tula.scloud.ru/docs/predostavlyaemye_produkty/1s-fresh/"
+        }
+      ],
+      "priority": 3
+    },
+    "Cleversite": {
+      "quickAnswer": "Описание продукта Cleversite и типовые вопросы клиентов.",
+      "links": [
+        {
+          "text": "Cleversite",
+          "url": "https://corp-portal.tula.scloud.ru/docs/predostavlyaemye_produkty/cleversite/"
+        }
+      ],
+      "priority": 2
+    },
+    "Почему ServiceCloud": {
+      "quickAnswer": "Ключевые преимущества аренды 1С в облаке ServiceCloud для аргументации клиенту.",
+      "links": [
+        {
+          "text": "Почему стоит выбрать ServiceCloud?",
+          "url": "https://corp-portal.tula.scloud.ru/docs/arenda_1s_v_oblake/pochemu-stoit-vybrat-servicecloud-2/"
+        }
+      ],
+      "priority": 3
+    },
+    "Технические параметры сервиса": {
+      "quickAnswer": "Технические характеристики сервиса (платформа, производительность, ограничения) для ответов клиентам.",
+      "links": [
+        {
+          "text": "Технические параметры сервиса",
+          "url": "https://corp-portal.tula.scloud.ru/docs/arenda_1s_v_oblake/tehnicheskie-parametry-servisa/"
+        }
+      ],
+      "priority": 3
+    },
+    "Конкуренты": {
+      "quickAnswer": "Сравнение с конкурентами и типовые возражения при выборе облака 1С.",
+      "links": [
+        {
+          "text": "Конкуренты",
+          "url": "https://corp-portal.tula.scloud.ru/docs/arenda_1s_v_oblake/konkurenty/"
+        }
+      ],
+      "priority": 2
+    },
+    "Текущие тарифы": {
+      "quickAnswer": "Актуальные тарифы аренды 1С, что входит в стоимость, как объяснить клиенту.",
+      "links": [
+        {
+          "text": "Текущие тарифы",
+          "url": "https://corp-portal.tula.scloud.ru/docs/tekushchie_tarify/tekushhie-tarify/"
+        },
+        {
+          "text": "Калькулятор стоимости",
+          "url": "https://corp-portal.tula.scloud.ru/docs/tekushchie_tarify/partnerskaya-programma/"
+        }
+      ],
+      "priority": 5
+    },
+    "Клиенты Казахстан": {
+      "quickAnswer": "Особенности тарификации и работы с клиентами из Казахстана.",
+      "links": [
+        {
+          "text": "Клиенты Казахстан",
+          "url": "https://corp-portal.tula.scloud.ru/docs/tekushchie_tarify/klienty-kazahstan/"
+        }
+      ],
+      "priority": 3
+    },
+    "Калькулятор стоимости": {
+      "quickAnswer": "Как посчитать стоимость услуг для клиента/партнёра (калькулятор).",
+      "links": [
+        {
+          "text": "Калькулятор стоимости",
+          "url": "https://corp-portal.tula.scloud.ru/docs/tekushchie_tarify/partnerskaya-programma/"
+        }
+      ],
+      "priority": 4
+    },
+    "Партнерский кабинет": {
+      "quickAnswer": "Работа в партнёрском кабинете: вход, функции, типичные сценарии.",
+      "links": [
+        {
+          "text": "Партнерский кабинет",
+          "url": "https://corp-portal.tula.scloud.ru/docs/partnerskaya_programma/partnerskij-kabinet/"
+        },
+        {
+          "text": "Общая информация по партнерской программе",
+          "url": "https://corp-portal.tula.scloud.ru/docs/partnerskaya_programma/obshhaya-informacziya/"
+        }
+      ],
+      "priority": 4
+    },
+    "Перенос средств с партнерского аккаунта": {
+      "quickAnswer": "Порядок переноса денежных средств с партнёрского аккаунта.",
+      "links": [
+        {
+          "text": "Перенос денежных средств с партнерского аккаунта",
+          "url": "https://corp-portal.tula.scloud.ru/docs/partnerskaya_programma/perenos-denezhnyh-sredstv-s-partnerskogo-akkaunta/"
+        }
+      ],
+      "priority": 3
+    },
+    "Вывод средств с партнерского баланса": {
+      "quickAnswer": "Как вывести средства с партнёрского баланса: условия и шаги.",
+      "links": [
+        {
+          "text": "Как вывести средства с партнерского баланса",
+          "url": "https://corp-portal.tula.scloud.ru/docs/partnerskaya_programma/kak-vyvesti-sredstva-s-partnerskogo-balansa/"
+        }
+      ],
+      "priority": 3
+    },
+    "Отключение от рассылки": {
+      "quickAnswer": "Как отключить клиента от email/SMS-рассылок по запросу.",
+      "links": [
+        {
+          "text": "Отключение от рассылки",
+          "url": "https://corp-portal.tula.scloud.ru/docs/finansovye-voprosy-kc/otklyuchenie-ot-rassylki/"
+        }
+      ],
+      "priority": 3
+    },
+    "Возврат денежных средств": {
+      "quickAnswer": "Регламент возврата денег клиенту: основания, сроки, что запросить у клиента.",
+      "links": [
+        {
+          "text": "Возврат денежных средств",
+          "url": "https://corp-portal.tula.scloud.ru/docs/finansovye-voprosy-kc/vozvrat-denezhnyh-sredstv/"
+        }
+      ],
+      "priority": 5
+    },
+    "Выставление счетов за доп услуги": {
+      "quickAnswer": "Как выставить счёт за дополнительные услуги (порядок и документы).",
+      "links": [
+        {
+          "text": "Выставление счетов за доп.услуги",
+          "url": "https://corp-portal.tula.scloud.ru/docs/finansovye-voprosy-kc/vystavlenie-schetov-za-dop-uslugi/"
+        }
+      ],
+      "priority": 4
+    },
+    "Найти логин по номеру счета": {
+      "quickAnswer": "Как по номеру счёта в платёжке найти логин клиента в системе.",
+      "links": [
+        {
+          "text": "Как найти логин по номеру счета в платежке",
+          "url": "https://corp-portal.tula.scloud.ru/docs/finansovye-voprosy-kc/kak-najti-login-po-nomeru-scheta-v-platezhke/"
+        }
+      ],
+      "priority": 4
+    },
+    "Обещанный платеж": {
+      "quickAnswer": "Правила обещанного платежа и работа с платёжными поручениями.",
+      "links": [
+        {
+          "text": "Обещанный платеж / Платёжные поручения",
+          "url": "https://corp-portal.tula.scloud.ru/docs/finansovye-voprosy-kc/17443/"
+        }
+      ],
+      "priority": 5
+    },
+    "Оплата от физлица или другого юрлица": {
+      "quickAnswer": "Как принимать и учитывать оплаты от физлица или от другого юрлица по ServiceCloud.",
+      "links": [
+        {
+          "text": "Оплаты от физического лица / от другого юр. лица",
+          "url": "https://corp-portal.tula.scloud.ru/docs/finansovye-voprosy-kc/oplaty-fizicheskogo-licza-drugogo-yur-licza-po-servisklaudu/"
+        }
+      ],
+      "priority": 4
+    },
+    "Отправка счетов и закрывающих документов": {
+      "quickAnswer": "Порядок отправки счетов, актов, закрывающих документов и актов сверки клиенту.",
+      "links": [
+        {
+          "text": "Отправка счетов / закрывающих / актов сверки",
+          "url": "https://corp-portal.tula.scloud.ru/docs/finansovye-voprosy-kc/otpravka-schetov-zakryvayushhih-dokumentov-aktov-sverki/"
+        }
+      ],
+      "priority": 4
+    },
+    "Правила формирования счета": {
+      "quickAnswer": "Как формируется счёт и как списываются средства с баланса клиента.",
+      "links": [
+        {
+          "text": "Правила формирования счета и списания средств",
+          "url": "https://corp-portal.tula.scloud.ru/docs/finansovye-voprosy-kc/pravila-formirovaniya-scheta-i-spisaniya-sredstv/"
+        }
+      ],
+      "priority": 4
+    },
+    "Сложности при оплате в ЛК": {
+      "quickAnswer": "Типовые проблемы оплаты в личном кабинете и что делать оператору.",
+      "links": [
+        {
+          "text": "Сложности при оплате в личном кабинете",
+          "url": "https://corp-portal.tula.scloud.ru/docs/finansovye-voprosy-kc/slozhnosti-pri-oplate-v-lichnom-kabinete/"
+        }
+      ],
+      "priority": 4
+    },
+    "Смена реквизитов плательщика": {
+      "quickAnswer": "Как сменить реквизиты плательщика по запросу клиента.",
+      "links": [
+        {
+          "text": "Смена реквизитов плательщика",
+          "url": "https://corp-portal.tula.scloud.ru/docs/finansovye-voprosy-kc/smena-rekvizitov-platelshhika/"
+        }
+      ],
+      "priority": 3
+    },
+    "ЭДО с SCloud": {
+      "quickAnswer": "Электронный документооборот с ServiceCloud: подключение, обмен документами.",
+      "links": [
+        {
+          "text": "ЭДО с SCloud",
+          "url": "https://corp-portal.tula.scloud.ru/docs/finansovye-voprosy-kc/edo-s-scloud/"
+        }
+      ],
+      "priority": 3
+    },
+    "Отдел КЦ": {
+      "quickAnswer": "Общая информация по отделу контактного центра.",
+      "links": [
+        {
+          "text": "Отдел КЦ",
+          "url": "https://corp-portal.tula.scloud.ru/docs/informaciya-po-otdelu-kc/13004/"
+        }
+      ],
+      "priority": 2
+    },
+    "Управление эмоциями и стресс": {
+      "quickAnswer": "Методы управления эмоциями и работа в условиях стресса для операторов КЦ.",
+      "links": [
+        {
+          "text": "Методы управления эмоциями и работа в условиях стресса",
+          "url": "https://corp-portal.tula.scloud.ru/docs/informaciya-po-otdelu-kc/metody-upravleniya-emocziyami-i-rabota-v-usloviyah-stressa/"
+        }
+      ],
+      "priority": 2
+    },
+    "SCOP": {
+      "quickAnswer": "Работа в АРМ оператора SCOP: основные функции и типовые действия.",
+      "links": [
+        {
+          "text": "SCOP",
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-po/scop/"
+        }
+      ],
+      "priority": 4
+    },
+    "Обслуживание в канале чат": {
+      "quickAnswer": "Регламент и правила обслуживания клиентов в чате.",
+      "links": [
+        {
+          "text": "Обслуживание в канале чат",
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-po/obsluzhivanie-v-kanale-chat/"
+        }
+      ],
+      "priority": 4
+    },
+    "Запускатор": {
+      "quickAnswer": "Работа с Запускатором: назначение и типовые сценарии для оператора.",
+      "links": [
+        {
+          "text": "Запускатор",
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-po/17481/"
+        }
+      ],
+      "priority": 3
+    },
+    "Управление сервисом": {
+      "quickAnswer": "Работа в «Управление сервисом» (УС): основные операции оператора КЦ.",
+      "links": [
+        {
+          "text": "Управление сервисом (УС)",
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-po/upravlenie-servisomus-2/"
+        }
+      ],
+      "priority": 4
+    },
+    "Кабинет менеджера": {
+      "quickAnswer": "Функции кабинета менеджера и когда им пользоваться.",
+      "links": [
+        {
+          "text": "Кабинет менеджера",
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-po/kabinet-menedzhera/"
+        }
+      ],
+      "priority": 3
+    },
+    "Поддержание работоспособности ПО": {
+      "quickAnswer": "Что делать при сбоях ПО на рабочем месте оператора.",
+      "links": [
+        {
+          "text": "Поддержание работоспособности ПО",
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-po/podderzhanie-rabotosposobnosti-po/"
+        }
+      ],
+      "priority": 3
+    },
+    "Резервная телефония": {
+      "quickAnswer": "Когда и как переключаться на резервную телефонию.",
+      "links": [
+        {
+          "text": "Резервная телефония",
+          "url": "https://corp-portal.tula.scloud.ru/docs/telefoniya/rezervnaya-telefoniya/"
+        }
+      ],
+      "priority": 4
+    },
+    "Телефонный этикет": {
+      "quickAnswer": "Правила телефонного этикета оператора КЦ.",
+      "links": [
+        {
+          "text": "Телефонный этикет",
+          "url": "https://corp-portal.tula.scloud.ru/docs/telefoniya/telefonnyj-etiket/"
+        }
+      ],
+      "priority": 3
+    },
+    "Работа в Oktell": {
+      "quickAnswer": "Работа в телефонии Oktell: статусы, перевод, типичные действия.",
+      "links": [
+        {
+          "text": "Работа в телефонии Oktell",
+          "url": "https://corp-portal.tula.scloud.ru/docs/telefoniya/rabota-v-oktell/"
+        },
+        {
+          "text": "WEB-версии клиента OKTELL",
+          "url": "https://corp-portal.tula.scloud.ru/docs/telefoniya/web-versii-klienta-oktell/"
+        }
+      ],
+      "priority": 4
+    },
+    "Работа в BPM": {
+      "quickAnswer": "Основы работы в BPM (ВРМ) для операторов КЦ.",
+      "links": [
+        {
+          "text": "Работа в ВРМ",
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-v-bpm-kc/rabota-v-vrm/"
+        }
+      ],
+      "priority": 4
+    },
+    "Заявки от ВКЦ": {
+      "quickAnswer": "Как обрабатывать заявки, поступившие от внешнего контактного центра (ВКЦ).",
+      "links": [
+        {
+          "text": "Заявки от ВКЦ",
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-v-bpm-kc/zayavki-ot-vkcz/"
+        }
+      ],
+      "priority": 3
+    },
+    "Повторные обращения": {
+      "quickAnswer": "Правила работы с повторными обращениями клиентов.",
+      "links": [
+        {
+          "text": "Повторные обращения",
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-v-bpm-kc/povtornye-obrashheniya/"
+        }
+      ],
+      "priority": 3
+    },
+    "Каталог услуг": {
+      "quickAnswer": "Содержание каталога услуг: что входит, как искать нужную услугу.",
+      "links": [
+        {
+          "text": "Содержание каталога услуг",
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-v-bpm-kc/soderzhanie-kataloga-uslug/"
+        }
+      ],
+      "priority": 3
+    },
+    "Прием обращений из канала": {
+      "quickAnswer": "Регламент приёма обращений из авторизованного и неавторизованного канала.",
+      "links": [
+        {
+          "text": "Регламент приема обращений",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglament-raboty-kc/reglament-priema-obrashhenij-iz-avtorizovannogo-ili-ne-avtorizovannogo-kanala/"
+        }
+      ],
+      "priority": 4
+    },
+    "Дежурные смены": {
+      "quickAnswer": "Порядок работы в дежурные смены.",
+      "links": [
+        {
+          "text": "Порядок работы в дежурные смены",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglament-raboty-kc/poryadok-raboty-v-dezhurnye-smeny/"
+        }
+      ],
+      "priority": 3
+    },
+    "Экстренные ситуации": {
+      "quickAnswer": "Действия оператора при экстренных ситуациях.",
+      "links": [
+        {
+          "text": "Экстренные ситуации",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglament-raboty-kc/ekstrennye-situaczii/"
+        }
+      ],
+      "priority": 4
+    },
+    "Нестандартные вопросы клиентов": {
+      "quickAnswer": "Как обрабатывать нестандартные вопросы клиентов, когда эскалировать.",
+      "links": [
+        {
+          "text": "Нестандартные вопросы клиентов",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglament-raboty-kc/nestandartnye-voprosy-klientov/"
+        }
+      ],
+      "priority": 3
+    },
+    "Схема работы с вопросом клиента": {
+      "quickAnswer": "Общая схема обработки вопроса клиента от приёма до закрытия.",
+      "links": [
+        {
+          "text": "Схема работы с вопросом клиента",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglament-raboty-kc/shema-raboty-s-voprosom-klienta/"
+        }
+      ],
+      "priority": 4
+    },
+    "Идентификация клиента": {
+      "quickAnswer": "Как идентифицировать клиента перед ответом на вопрос или выполнением действий.",
+      "links": [
+        {
+          "text": "Идентификация клиента",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglament-raboty-kc/identifikacziya-klienta-2/"
+        }
+      ],
+      "priority": 5
+    },
+    "Жалоба и написать директору": {
+      "quickAnswer": "Регламент работы с обращениями «Написать директору», жалобами и запросами на связь с руководителем.",
+      "links": [
+        {
+          "text": "Регламент «Написать директору / Жалоба»",
+          "url": "https://corp-portal.tula.scloud.ru/docs/zayavki-na-otdel-okk/reglament-raboty-s-obrashheniyami-napisat-direktoru-zhaloba-zapros-ot-klienta-na-svyaz-s-rukovoditelem/"
+        }
+      ],
+      "priority": 5
+    },
+    "Обратная связь чат": {
+      "quickAnswer": "Регламент обработки заявок «Обратная связь» из чата (передача в ОКК).",
+      "links": [
+        {
+          "text": "Регламент обработки заявок Обратная связь чат",
+          "url": "https://corp-portal.tula.scloud.ru/docs/zayavki-na-otdel-okk/reglament-obrabotki-zayavok-obratnaya-svyaz-chat/"
+        }
+      ],
+      "priority": 3
+    },
+    "Благодарность и отзыв": {
+      "quickAnswer": "Как обрабатывать благодарности и отзывы клиентов (передача в ОКК).",
+      "links": [
+        {
+          "text": "Регламент обработки Благодарность / Отзыв",
+          "url": "https://corp-portal.tula.scloud.ru/docs/zayavki-na-otdel-okk/reglament-obrabotki-blagodarnost-otzyv/"
+        }
+      ],
+      "priority": 3
+    },
+    "Способы связи с клиентом по заявкам": {
+      "quickAnswer": "Допустимые способы взаимодействия с клиентом по заявкам (телефон, чат, email и т.д.).",
+      "links": [
+        {
+          "text": "Способы взаимодействия с клиентом по заявкам",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglament-peredachi-obrashchenij-na-profilnye-otdely/sposoby-svyazi/"
+        }
+      ],
+      "priority": 3
+    },
+    "Обращения от сторонних организаций": {
+      "quickAnswer": "Регламент работы с обращениями от сторонних организаций.",
+      "links": [
+        {
+          "text": "Обращения от сторонних организаций",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglament-peredachi-obrashchenij-na-profilnye-otdely/reglament-raboty-s-obrashheniyami-ot-storonnih-organizaczij/"
+        }
+      ],
+      "priority": 3
+    },
+    "Передача на 1С-программистов": {
+      "quickAnswer": "Когда и как передавать обращение в отдел 1С-программистов.",
+      "links": [
+        {
+          "text": "1С-Программисты",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglament-peredachi-obrashchenij-na-profilnye-otdely/1s-programmisty/"
+        }
+      ],
+      "priority": 4
+    },
+    "Передача в отдел сопровождения": {
+      "quickAnswer": "Критерии и порядок передачи обращения в отдел сопровождения.",
+      "links": [
+        {
+          "text": "Отдел сопровождения",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglament-peredachi-obrashchenij-na-profilnye-otdely/otdel-soprovozhdeniya/"
+        }
+      ],
+      "priority": 4
+    },
+    "Передача в финансовый отдел": {
+      "quickAnswer": "Когда передавать обращение в финансовый отдел.",
+      "links": [
+        {
+          "text": "Финансовый отдел",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglament-peredachi-obrashchenij-na-profilnye-otdely/finansovyj-otdel/"
+        }
+      ],
+      "priority": 4
+    },
+    "Передача в отдел ИТС": {
+      "quickAnswer": "Критерии передачи обращения в отдел ИТС.",
+      "links": [
+        {
+          "text": "Отдел ИТС",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglament-peredachi-obrashchenij-na-profilnye-otdely/otdel-its/"
+        }
+      ],
+      "priority": 4
+    },
+    "Передача в отдел продаж": {
+      "quickAnswer": "Когда передавать обращение в отдел продаж.",
+      "links": [
+        {
+          "text": "Отдел продаж",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglament-peredachi-obrashchenij-na-profilnye-otdely/otdel-prodazh/"
+        }
+      ],
+      "priority": 3
+    },
+    "Передача в 1С Поддержку": {
+      "quickAnswer": "Критерии и порядок передачи в 1С Поддержку.",
+      "links": [
+        {
+          "text": "1С Поддержка",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglament-peredachi-obrashchenij-na-profilnye-otdely/1s-podderzhka/"
+        }
+      ],
+      "priority": 4
+    },
+    "Передача в ИТ отдел": {
+      "quickAnswer": "Когда и как передавать обращение в ИТ-отдел.",
+      "links": [
+        {
+          "text": "ИТ Отдел",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglament-peredachi-obrashchenij-na-profilnye-otdely/it-otdel/"
+        }
+      ],
+      "priority": 4
+    },
+    "Завершение сеансов": {
+      "quickAnswer": "Как завершать сеансы пользователя в базе 1С (когда и какими средствами).",
+      "links": [
+        {
+          "text": "Завершение сеансов",
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-bazami-kc/zavershenie-seansov/"
+        }
+      ],
+      "priority": 4
+    },
+    "Способы обновления": {
+      "quickAnswer": "Какие способы обновления баз доступны клиенту и что может сделать оператор КЦ.",
+      "links": [
+        {
+          "text": "Способы обновления",
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-bazami-kc/sposoby-obnovleniya/"
+        }
+      ],
+      "priority": 4
+    },
+    "Управление базами 1С": {
+      "quickAnswer": "Основные операции с базами 1С, доступные оператору КЦ.",
+      "links": [
+        {
+          "text": "Работа / управление базами 1С",
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-bazami-kc/rabota-upravlenie-bazami-1s/"
+        }
+      ],
+      "priority": 4
+    },
+    "Linux RDP": {
+      "quickAnswer": "Доступ к конфигуратору через SC Remote Desktop (Linux RDP).",
+      "links": [
+        {
+          "text": "SC Remote Desktop — Linux RDP",
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-bazami-kc/dostup-k-konfiguratoru-linux-rdp/"
+        }
+      ],
+      "priority": 3
+    },
+    "Способы подключения": {
+      "quickAnswer": "Способы подключения к базам 1С и доступные возможности для клиента.",
+      "links": [
+        {
+          "text": "Способы подключения и возможности",
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-bazami-kc/sposoby-podklyucheniya-i-vozmozhnosti/"
+        }
+      ],
+      "priority": 4
+    },
+    "Формы и назначения конфигураций": {
+      "quickAnswer": "Какие формы конфигураций бывают и для чего они предназначены.",
+      "links": [
+        {
+          "text": "Формы и назначения конфигураций",
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-bazami-kc/formy-i-naznacheniya-konfiguraczij/"
+        }
+      ],
+      "priority": 3
+    },
+    "Интернет-поддержка и регномер": {
+      "quickAnswer": "Подключение интернет-поддержки и работа с регистрационным номером.",
+      "links": [
+        {
+          "text": "Интернет-поддержка / Регистрационный номер",
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-bazami-kc/internet-podderzhka-registraczionnyj-nomer/"
+        }
+      ],
+      "priority": 3
+    },
+    "Нестандартная конфигурация": {
+      "quickAnswer": "Порядок размещения нестандартной конфигурации в сервисе.",
+      "links": [
+        {
+          "text": "Размещение нестандартной конфигурации",
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-bazami-kc/razmeshhenie-nestandartnoj-konfiguraczii/"
+        }
+      ],
+      "priority": 3
+    },
+    "Файловые и клиент-серверные базы": {
+      "quickAnswer": "Отличия файловых и клиент-серверных баз, что важно знать оператору.",
+      "links": [
+        {
+          "text": "Файловые и Клиент-серверные базы",
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-bazami-kc/fajlovye-i-klient-servernye-bazy/"
+        }
+      ],
+      "priority": 3
+    },
+    "Запуск 1С из ЛК": {
+      "quickAnswer": "Как клиент запускает 1С из личного кабинета, типовые проблемы.",
+      "links": [
+        {
+          "text": "Запуск 1С",
+          "url": "https://corp-portal.tula.scloud.ru/docs/lichnyj-kabinet/zapusk-1s/"
+        }
+      ],
+      "priority": 4
+    },
+    "Профиль в ЛК": {
+      "quickAnswer": "Раздел «Профиль» в личном кабинете: что можно менять, типовые вопросы.",
+      "links": [
+        {
+          "text": "Профиль",
+          "url": "https://corp-portal.tula.scloud.ru/docs/lichnyj-kabinet/profil/"
+        }
+      ],
+      "priority": 3
+    },
+    "Пользователи в ЛК": {
+      "quickAnswer": "Управление пользователями в личном кабинете: добавление, права, типичные ошибки.",
+      "links": [
+        {
+          "text": "Пользователи",
+          "url": "https://corp-portal.tula.scloud.ru/docs/lichnyj-kabinet/polzovateli/"
+        }
+      ],
+      "priority": 4
+    },
+    "Сеансы в ЛК": {
+      "quickAnswer": "Просмотр и управление сеансами в личном кабинете.",
+      "links": [
+        {
+          "text": "Сеансы",
+          "url": "https://corp-portal.tula.scloud.ru/docs/lichnyj-kabinet/seansy/"
+        }
+      ],
+      "priority": 3
+    },
+    "Базы 1С в ЛК": {
+      "quickAnswer": "Раздел «Базы 1С» в личном кабинете: создание, настройки, доступ.",
+      "links": [
+        {
+          "text": "Базы 1С",
+          "url": "https://corp-portal.tula.scloud.ru/docs/lichnyj-kabinet/bazy-1s/"
+        }
+      ],
+      "priority": 4
+    },
+    "Виртуальный диск": {
+      "quickAnswer": "Виртуальный диск в ЛК: назначение, доступ, типовые вопросы.",
+      "links": [
+        {
+          "text": "Виртуальный диск",
+          "url": "https://corp-portal.tula.scloud.ru/docs/lichnyj-kabinet/virtualnyj-disk/"
+        }
+      ],
+      "priority": 3
+    },
+    "Отчетность 1С в ЛК": {
+      "quickAnswer": "Раздел отчётности в личном кабинете.",
+      "links": [
+        {
+          "text": "Отчетность 1С",
+          "url": "https://corp-portal.tula.scloud.ru/docs/lichnyj-kabinet/otchetnost-1s/"
+        }
+      ],
+      "priority": 3
+    },
+    "Финансы в ЛК": {
+      "quickAnswer": "Раздел «Финансы» в личном кабинете: баланс, счета, история оплат.",
+      "links": [
+        {
+          "text": "Финансы",
+          "url": "https://corp-portal.tula.scloud.ru/docs/lichnyj-kabinet/16522/"
+        }
+      ],
+      "priority": 4
+    },
+    "Услуги и сервисы в ЛК": {
+      "quickAnswer": "Подключение и управление услугами/сервисами из личного кабинета.",
+      "links": [
+        {
+          "text": "Услуги и сервисы",
+          "url": "https://corp-portal.tula.scloud.ru/docs/lichnyj-kabinet/uslugi-i-servisy/"
+        }
+      ],
+      "priority": 3
+    },
+    "Отказ от услуг": {
+      "quickAnswer": "Как клиент отказывается от услуг, порядок и последствия.",
+      "links": [
+        {
+          "text": "Отказ от услуг",
+          "url": "https://corp-portal.tula.scloud.ru/docs/lichnyj-kabinet/otkaz-ot-uslug/"
+        }
+      ],
+      "priority": 4
+    },
+    "Восстановление аккаунта": {
+      "quickAnswer": "Порядок восстановления доступа к аккаунту клиента.",
+      "links": [
+        {
+          "text": "Восстановление аккаунта",
+          "url": "https://corp-portal.tula.scloud.ru/docs/lichnyj-kabinet/vosstanovlenie-akkaunta/"
+        }
+      ],
+      "priority": 5
+    },
+    "Действия оператора в ЛК клиента": {
+      "quickAnswer": "Что оператор КЦ может и не может делать в личном кабинете клиента.",
+      "links": [
+        {
+          "text": "Действия оператора в ЛК клиента",
+          "url": "https://corp-portal.tula.scloud.ru/docs/lichnyj-kabinet/dejstviya-operatora-v-lk-klienta/"
+        }
+      ],
+      "priority": 4
+    },
+    "Мобильное приложение ЛК": {
+      "quickAnswer": "Мобильное приложение личного кабинета Scloud: возможности и типовые вопросы.",
+      "links": [
+        {
+          "text": "Приложение ЛК Scloud",
+          "url": "https://corp-portal.tula.scloud.ru/docs/mobilnoe-prilozhenie-lk/prilozhenie-lk-scloud/"
+        }
+      ],
+      "priority": 3
+    },
+    "VIP поддержка": {
+      "quickAnswer": "Что входит в VIP-поддержку, кому доступна, как подключить.",
+      "links": [
+        {
+          "text": "VIP — поддержка",
+          "url": "https://corp-portal.tula.scloud.ru/docs/dopolnitelnye-uslugi-i-servisy/vip-podderzhka-2/"
+        }
+      ],
+      "priority": 4
+    },
+    "Опция SQL": {
+      "quickAnswer": "Опция SQL: что даёт клиенту, стоимость, как подключить.",
+      "links": [
+        {
+          "text": "Опция SQL",
+          "url": "https://corp-portal.tula.scloud.ru/docs/dopolnitelnye-uslugi-i-servisy/opcziya-sql/"
+        }
+      ],
+      "priority": 3
+    },
+    "1С Отчетность": {
+      "quickAnswer": "Сервис 1С-Отчётность: подключение, типовые вопросы клиентов.",
+      "links": [
+        {
+          "text": "1C Отчетность",
+          "url": "https://corp-portal.tula.scloud.ru/docs/dopolnitelnye-uslugi-i-servisy/1c-otchetnost/"
+        }
+      ],
+      "priority": 4
+    },
+    "1С Контрагент": {
+      "quickAnswer": "Сервис 1С-Контрагент: возможности и подключение.",
+      "links": [
+        {
+          "text": "1С Контрагент",
+          "url": "https://corp-portal.tula.scloud.ru/docs/dopolnitelnye-uslugi-i-servisy/1s-kontragent/"
+        }
+      ],
+      "priority": 3
+    },
+    "1СПАРК Риски": {
+      "quickAnswer": "Сервис 1СПАРК Риски: что проверяет, как подключить.",
+      "links": [
+        {
+          "text": "1СПАРК Риски",
+          "url": "https://corp-portal.tula.scloud.ru/docs/dopolnitelnye-uslugi-i-servisy/1spark-riski/"
+        }
+      ],
+      "priority": 2
+    },
+    "1С ОФД": {
+      "quickAnswer": "Сервис 1С-ОФД: назначение и подключение.",
+      "links": [
+        {
+          "text": "1С ОФД",
+          "url": "https://corp-portal.tula.scloud.ru/docs/dopolnitelnye-uslugi-i-servisy/1s-ofd/"
+        }
+      ],
+      "priority": 2
+    },
+    "1С ЭДО": {
+      "quickAnswer": "1С-ЭДО: подключение, работа, отличие от ЭДО конкурентов (Диадок, СБИС).",
+      "links": [
+        {
+          "text": "1С ЭДО",
+          "url": "https://corp-portal.tula.scloud.ru/docs/1s-ehdo/1s-edo/"
+        },
+        {
+          "text": "ЭДО от конкурентов (Диадок, Saby)",
+          "url": "https://corp-portal.tula.scloud.ru/docs/1s-ehdo/vzaimodejstvie-oblachnoj-1s-s-diadok-sbis-prochimi-storonnimi-servisami-i-lokalnymi-resursami-2/"
+        },
+        {
+          "text": "Доки",
+          "url": "https://corp-portal.tula.scloud.ru/docs/1s-ehdo/doki/"
+        }
+      ],
+      "priority": 5
+    },
+    "IaaS виртуальный сервер": {
+      "quickAnswer": "Аренда виртуального сервера 1С (IaaS): что это и кому подходит.",
+      "links": [
+        {
+          "text": "IaaS (Аренда виртуального сервера 1С)",
+          "url": "https://corp-portal.tula.scloud.ru/docs/dopolnitelnye-uslugi-i-servisy/iaas-arenda-virtualnogo-servera-1s-2/"
+        }
+      ],
+      "priority": 3
+    },
+    "Окно ИТС": {
+      "quickAnswer": "Что делать, если у клиента появляется окно ИТС.",
+      "links": [
+        {
+          "text": "Окно ИТС",
+          "url": "https://corp-portal.tula.scloud.ru/docs/oshibki-i-informacionnye-okna-kc/okno-its/"
+        }
+      ],
+      "priority": 4
+    },
+    "Неверное имя пользователя и пароль": {
+      "quickAnswer": "Регламент работы с ошибкой «Неверное имя пользователя и пароль».",
+      "links": [
+        {
+          "text": "Ошибка «Неверное имя пользователя и пароль»",
+          "url": "https://corp-portal.tula.scloud.ru/docs/oshibki-i-informacionnye-okna-kc/reglament-raboty-s-oshibkoj-nevernoe-imya-polzovatelya-i-parol/"
+        }
+      ],
+      "priority": 5
+    },
+    "Ошибки при обновлении": {
+      "quickAnswer": "Типовые ошибки при обновлении / автообновлении и действия оператора.",
+      "links": [
+        {
+          "text": "Ошибки при обновлении / автообновлении",
+          "url": "https://corp-portal.tula.scloud.ru/docs/oshibki-i-informacionnye-okna-kc/oshibki-pri-obnovlenii-avtoobnovlenii/"
+        }
+      ],
+      "priority": 4
+    },
+    "Ошибки при подключении на сервер": {
+      "quickAnswer": "Ошибки при подключении к серверу: что проверить и когда эскалировать.",
+      "links": [
+        {
+          "text": "Ошибки при подключении на сервер",
+          "url": "https://corp-portal.tula.scloud.ru/docs/oshibki-i-informacionnye-okna-kc/oshibki-pri-podklyuchenii-na-server/"
+        }
+      ],
+      "priority": 4
+    },
+    "Ошибки при входе в базу": {
+      "quickAnswer": "Типовые ошибки при входе в базу 1С и порядок действий оператора.",
+      "links": [
+        {
+          "text": "Ошибки при входе в базу",
+          "url": "https://corp-portal.tula.scloud.ru/docs/oshibki-i-informacionnye-okna-kc/oshibki-pri-vhode-v-bazu/"
+        }
+      ],
+      "priority": 5
+    },
+    "Другие ошибки и информационные окна": {
+      "quickAnswer": "Прочие ошибки и информационные окна 1С — справочник для оператора КЦ.",
+      "links": [
+        {
+          "text": "Другие ошибки и информационные окна",
+          "url": "https://corp-portal.tula.scloud.ru/docs/oshibki-i-informacionnye-okna-kc/drugie-oshibki-i-informaczionnye-okna/"
+        }
+      ],
+      "priority": 3
+    }
+  },
+  "synonyms": {
+    "Маркировка": [
+      "честный знак",
+      "коды маркировки",
+      "маркировка товаров",
+      "киз"
+    ],
+    "Текущие тарифы": [
+      "тарифы",
+      "стоимость",
+      "цены",
+      "прайс",
+      "сколько стоит"
+    ],
+    "Калькулятор стоимости": [
+      "посчитать стоимость",
+      "расчёт стоимости",
+      "калькулятор тарифа"
+    ],
+    "Возврат денежных средств": [
+      "вернуть деньги",
+      "возврат оплаты",
+      "refund",
+      "вернуть средства"
+    ],
+    "Обещанный платеж": [
+      "обещанка",
+      "платёжка",
+      "платежное поручение",
+      "отсрочка оплаты"
+    ],
+    "Найти логин по номеру счета": [
+      "логин по счёту",
+      "найти аккаунт по платежке",
+      "номер счёта логин"
+    ],
+    "Сложности при оплате в ЛК": [
+      "не получается оплатить",
+      "ошибка оплаты",
+      "оплата не проходит"
+    ],
+    "Идентификация клиента": [
+      "проверить клиента",
+      "как идентифицировать",
+      "подтверждение личности"
+    ],
+    "Жалоба и написать директору": [
+      "жалоба",
+      "написать директору",
+      "связь с руководителем",
+      "претензия"
+    ],
+    "Передача в ИТ отдел": [
+      "передать в ит",
+      "эскалация в ит",
+      "на ит отдел"
+    ],
+    "Передача в 1С Поддержку": [
+      "на 1с поддержку",
+      "передать консультантам",
+      "1с поддержка"
+    ],
+    "Передача на 1С-программистов": [
+      "на программистов",
+      "1с программисты",
+      "разработка"
+    ],
+    "SCOP": [
+      "скоп",
+      "арм оператора",
+      "арм скоп"
+    ],
+    "Работа в Oktell": [
+      "октелл",
+      "телефония",
+      "oktell",
+      "звонки"
+    ],
+    "Резервная телефония": [
+      "запасная телефония",
+      "резервный номер"
+    ],
+    "Восстановление аккаунта": [
+      "восстановить доступ",
+      "забыл пароль",
+      "не могу войти в лк"
+    ],
+    "Отказ от услуг": [
+      "отключить услугу",
+      "расторгнуть",
+      "отказаться от сервиса"
+    ],
+    "Неверное имя пользователя и пароль": [
+      "неверный пароль",
+      "неверный логин",
+      "ошибка входа",
+      "wrong password"
+    ],
+    "Ошибки при входе в базу": [
+      "не заходит в базу",
+      "ошибка входа в 1с",
+      "не открывается база"
+    ],
+    "Ошибки при обновлении": [
+      "ошибка обновления",
+      "не обновляется",
+      "автообновление ошибка"
+    ],
+    "1С ЭДО": [
+      "эдо",
+      "электронный документооборот",
+      "1с-эдо",
+      "диадок",
+      "сбис",
+      "saby"
+    ],
+    "VIP поддержка": [
+      "вип",
+      "vip",
+      "приоритетная поддержка"
+    ],
+    "Способы подключения": [
+      "как подключиться",
+      "тонкий клиент",
+      "веб-клиент",
+      "rdp"
+    ],
+    "Завершение сеансов": [
+      "закрыть сеанс",
+      "завершить сессии",
+      "выкинуть пользователя"
+    ],
+    "Файловые и клиент-серверные базы": [
+      "файловая база",
+      "клиент-сервер",
+      "sql база"
+    ],
+    "Пользователи в ЛК": [
+      "добавить пользователя",
+      "права в лк",
+      "пользователи кабинета"
+    ],
+    "Финансы в ЛК": [
+      "баланс",
+      "история оплат",
+      "счёт в лк"
+    ],
+    "БухАРМ": [
+      "smartconsult",
+      "смартконсалт",
+      "бухарм"
+    ],
+    "Клиенты Казахстан": [
+      "казахстан",
+      "kz",
+      "тарифы казахстан"
+    ]
+  }
+}
