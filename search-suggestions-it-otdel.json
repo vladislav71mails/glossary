@@ -1,36 +1,10 @@
 {
   "synonyms": {
-    "VRD и публикация": [
-      "vrd",
-      "врд",
-      "публикация",
-      "публикация базы",
-      "web сервис",
-      "http сервис",
-      "публикация иб"
-    ],
-    "Эскалация на 2-ю линию": [
-      "эскалация",
-      "на 2 линию",
-      "2-я линия",
-      "передать на вторую",
-      "эскалировать"
-    ],
-    "Регламентные задания": [
-      "рег задания",
-      "рег.задания",
-      "фоновые задания",
-      "регламентные",
-      "включение регламентных"
-    ],
-    "Вопросы, требующие передачи заявки в другой отдел": [
-      "передачи заявки в другой отдел",
-      "передача обращения в другой отдел",
-      "вопрос в другой отдел",
-      "1с консультанты",
-      "ИТС",
-      "Программисты 1С",
-      "консультанты"
+    "Выгрузка информационных баз пользователю": [
+      "выгрузка баз",
+      "выгрузить базу",
+      "выгрузка иб",
+      "база на файлообменник"
     ],
     "Классификаторы 1С": [
       "классификатор",
@@ -50,16 +24,23 @@
       "обновление фиас",
       "программное средство классификаторы"
     ],
-    "Отладка": [
-      "отладка",
-      "отладчик",
-      "debug",
-      "подключение отладчика",
-      "отладк",
-      "отладка по http",
-      "http отладка",
-      "отладка sql",
-      "предметы отладки"
+    "обновление": [
+      "апдейт",
+      "обновить",
+      "обновиться",
+      "патч",
+      "версия"
+    ],
+    "Обновление баз": [
+      "апдейт баз",
+      "обновлению баз",
+      "обновление базы",
+      "обновление до проф",
+      "патч",
+      "обновить базу",
+      "обновлени",
+      "автоматизатор",
+      "автообновление"
     ],
     "Тонкий клиент": [
       "тонкий клиент",
@@ -75,55 +56,22 @@
       "настройка тонкого клиента",
       "доступ через тонкий клиент"
     ],
-    "Сжатие баз": [
-      "сжать базу",
-      "сжатие",
-      "уменьшение размера базы"
+    "1с": [
+      "1с предприятие",
+      "1с бухгалтерия",
+      "1с платформа",
+      "1с конфигурация"
     ],
-    "обмен": [
-      "синхронизация",
-      "обмен данными",
-      "обмен запросов",
-      "обмен 1с"
-    ],
-    "регламент": [
-      "инструкция",
-      "правила",
-      "процедура"
-    ],
-    "Ошибка профиля безопасности": [
-      "профиль безопасности",
-      "ошибка профиля",
-      "security profile",
-      "профиль 1с"
-    ],
-    "Поиск баз и ЭЦП удалённого пользователя": [
-      "найти базу пользователя",
-      "эцп удалённого",
-      "базы удалённого пользователя"
-    ],
-    "облако": [
-      "cloud",
-      "облачный сервис"
-    ],
-    "ошибка": [
-      "проблема",
-      "сбой",
-      "неисправность",
-      "баг",
-      "глюк"
-    ],
-    "эцп": [
-      "электронная подпись",
-      "цифровая подпись",
-      "электронно цифровая подпись"
-    ],
-    "Работа с ЭЦП": [
-      "эцп",
-      "электронная подпись",
-      "цифровая подпись",
-      "электронно-цифровая подпись",
-      "работа с эцп"
+    "Отладка": [
+      "отладка",
+      "отладчик",
+      "debug",
+      "подключение отладчика",
+      "отладк",
+      "отладка по http",
+      "http отладка",
+      "отладка sql",
+      "предметы отладки"
     ],
     "лицензия": [
       "лицензирование",
@@ -131,22 +79,20 @@
       "ключ",
       "слк"
     ],
-    "обновление": [
-      "апдейт",
-      "обновить",
-      "обновиться",
-      "патч",
-      "версия"
+    "Работы 2-й линии": [
+      "работы 2 линии",
+      "2 линия",
+      "2-я линия",
+      "платные работы",
+      "привлечение программистов",
+      "локальная 1с"
     ],
-    "Namespace": [
-      "ns",
-      "name space",
-      "неймспейс",
-      "namespace"
-    ],
-    "подпись": [
-      "эцп",
-      "электронная подпись"
+    "ошибка": [
+      "проблема",
+      "сбой",
+      "неисправность",
+      "баг",
+      "глюк"
     ],
     "Сложности работы на Linux RDP": [
       "linux rdp",
@@ -169,21 +115,16 @@
       "алкоголь",
       "маркировка честный знак"
     ],
-    "эскалация": [
-      "передача",
-      "на вторую линию",
-      "перевод на экспертов"
+    "отчётность": [
+      "отчетность",
+      "отчеты",
+      "финансовая отчетность",
+      "налоговая отчетность"
     ],
-    "синхронизация": [
-      "синхрон",
-      "обмен данными",
-      "репликация"
-    ],
-    "база": [
-      "информационная база",
-      "иб",
-      "база данных",
-      "1с база"
+    "Приоритизация обращений": [
+      "приоритет заявок",
+      "приоритизация",
+      "приоритеты обращений"
     ],
     "Перенос базы в облако": [
       "перенос базы",
@@ -195,24 +136,19 @@
       "развертывание базы",
       "перенос иб"
     ],
-    "заявка": [
-      "обращение",
-      "тикет",
-      "задача",
-      "инцидент"
+    "Регламентные задания": [
+      "рег задания",
+      "рег.задания",
+      "фоновые задания",
+      "регламентные",
+      "включение регламентных"
     ],
-    "rphost": [
-      "rphost",
-      "рпхост",
-      "рабочий процесс",
-      "процесс rphost",
-      "нагрузка rphost"
-    ],
-    "Диагностика ошибок синхронизации": [
-      "синхронизация",
-      "ошибка синхронизации",
-      "синхрон",
-      "обмен данными"
+    "Эскалация на 2-ю линию": [
+      "эскалация",
+      "на 2 линию",
+      "2-я линия",
+      "передать на вторую",
+      "эскалировать"
     ],
     "Медленная работа баз": [
       "зависает",
@@ -226,19 +162,162 @@
       "долго грузится",
       "медленная работа"
     ],
-    "Работы 2-й линии": [
-      "работы 2 линии",
-      "2 линия",
-      "2-я линия",
-      "платные работы",
-      "привлечение программистов",
-      "локальная 1с"
+    "заявка": [
+      "обращение",
+      "тикет",
+      "задача",
+      "инцидент"
     ],
-    "1с": [
-      "1с предприятие",
-      "1с бухгалтерия",
-      "1с платформа",
-      "1с конфигурация"
+    "обмен": [
+      "синхронизация",
+      "обмен данными",
+      "обмен запросов",
+      "обмен 1с"
+    ],
+    "Кэш 1С": [
+      "кэш",
+      "кеш",
+      "очистка кэша",
+      "очистить кэш",
+      "локальный кэш",
+      "cache",
+      "сброс кэша"
+    ],
+    "Вопросы, требующие передачи заявки в другой отдел": [
+      "передачи заявки в другой отдел",
+      "передача обращения в другой отдел",
+      "вопрос в другой отдел",
+      "1с консультанты",
+      "ИТС",
+      "Программисты 1С",
+      "консультанты"
+    ],
+    "синхронизация": [
+      "синхрон",
+      "обмен данными",
+      "репликация"
+    ],
+    "база": [
+      "информационная база",
+      "иб",
+      "база данных",
+      "1с база"
+    ],
+    "VPN": [
+      "vpn",
+      "впн",
+      "vpn key",
+      "vpn ключ",
+      "подключение vpn",
+      "разрывы vpn"
+    ],
+    "эцп": [
+      "электронная подпись",
+      "цифровая подпись",
+      "электронно цифровая подпись"
+    ],
+    "Печать": [
+      "печать",
+      "принтер",
+      "печать lrdp",
+      "печать rdp",
+      "не печатает",
+      "проблема печати",
+      "настройка печати",
+      "печать из 1с"
+    ],
+    "логирование": [
+      "лог",
+      "логи",
+      "логирование http",
+      "логирование https",
+      "http лог",
+      "логирование запросов"
+    ],
+    "techsupport": [
+      "техсапорт",
+      "служебный пользователь",
+      "служебный акк",
+      "tech",
+      "support"
+    ],
+    "подпись": [
+      "эцп",
+      "электронная подпись"
+    ],
+    "облако": [
+      "cloud",
+      "облачный сервис"
+    ],
+    "Ошибка профиля безопасности": [
+      "профиль безопасности",
+      "ошибка профиля",
+      "security profile",
+      "профиль 1с"
+    ],
+    "Работа с ЭЦП": [
+      "эцп",
+      "электронная подпись",
+      "цифровая подпись",
+      "электронно-цифровая подпись",
+      "работа с эцп"
+    ],
+    "производительность": [
+      "медленная",
+      "кеш",
+      "тормозит",
+      "rphost",
+      "медленно",
+      "оптимизация",
+      "кэш",
+      "ускорение"
+    ],
+    "эскалация": [
+      "передача",
+      "на вторую линию",
+      "перевод на экспертов"
+    ],
+    "СЛК": [
+      "лицензирование 1с",
+      "слк",
+      "ошибка лицензии",
+      "лицензия",
+      "система лицензирования",
+      "перенос слк",
+      "размещение слк"
+    ],
+    "VRD и публикация": [
+      "vrd",
+      "врд",
+      "публикация",
+      "публикация базы",
+      "web сервис",
+      "http сервис",
+      "публикация иб"
+    ],
+    "Диагностика ошибок синхронизации": [
+      "синхронизация",
+      "ошибка синхронизации",
+      "синхрон",
+      "обмен данными"
+    ],
+    "Namespace": [
+      "ns",
+      "name space",
+      "неймспейс",
+      "namespace"
+    ],
+    "rphost": [
+      "rphost",
+      "рпхост",
+      "рабочий процесс",
+      "процесс rphost",
+      "нагрузка rphost"
+    ],
+    "регламент": [
+      "инструкция",
+      "правила",
+      "процедура"
     ],
     "Диагностика обменов запросов 1С": [
       "диагностика обменов",
@@ -258,155 +337,230 @@
       "перехват запросов 1с",
       "диагностика трафика 1с"
     ],
-    "Выгрузка информационных баз пользователю": [
-      "выгрузка баз",
-      "выгрузить базу",
-      "выгрузка иб",
-      "база на файлообменник"
+    "Сжатие баз": [
+      "сжать базу",
+      "сжатие",
+      "уменьшение размера базы"
     ],
-    "Обновление баз": [
-      "апдейт баз",
-      "обновлению баз",
-      "обновление базы",
-      "обновление до проф",
-      "патч",
-      "обновить базу",
-      "обновлени",
-      "автоматизатор",
-      "автообновление"
-    ],
-    "Печать": [
-      "печать",
-      "принтер",
-      "печать lrdp",
-      "печать rdp",
-      "не печатает",
-      "проблема печати",
-      "настройка печати",
-      "печать из 1с"
-    ],
-    "производительность": [
-      "медленная",
-      "кеш",
-      "тормозит",
-      "rphost",
-      "медленно",
-      "оптимизация",
-      "кэш",
-      "ускорение"
-    ],
-    "СЛК": [
-      "лицензирование 1с",
-      "слк",
-      "ошибка лицензии",
-      "лицензия",
-      "система лицензирования",
-      "перенос слк",
-      "размещение слк"
-    ],
-    "Кэш 1С": [
-      "кэш",
-      "кеш",
-      "очистка кэша",
-      "очистить кэш",
-      "локальный кэш",
-      "cache",
-      "сброс кэша"
-    ],
-    "Приоритизация обращений": [
-      "приоритет заявок",
-      "приоритизация",
-      "приоритеты обращений"
-    ],
-    "логирование": [
-      "лог",
-      "логи",
-      "логирование http",
-      "логирование https",
-      "http лог",
-      "логирование запросов"
-    ],
-    "VPN": [
-      "vpn",
-      "впн",
-      "vpn key",
-      "vpn ключ",
-      "подключение vpn",
-      "разрывы vpn"
-    ],
-    "отчётность": [
-      "отчетность",
-      "отчеты",
-      "финансовая отчетность",
-      "налоговая отчетность"
+    "Поиск баз и ЭЦП удалённого пользователя": [
+      "найти базу пользователя",
+      "эцп удалённого",
+      "базы удалённого пользователя"
     ]
   },
   "suggestions": {
-    "rphost": {
+    "Диагностика ошибок синхронизации": {
       "links": [
         {
-          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-sql/perezapusk-servera-1s-predpriyatiya/",
-          "text": "Перезапуск сервера 1С Предприятия"
-        },
-        {
-          "url": "https://corp-portal.tula.scloud.ru/docs/administrirovanie-sistem-na-1s/spisok-rabochih-proczessov/",
-          "text": "Список рабочих процессов"
-        },
-        {
-          "url": "https://corp-portal.tula.scloud.ru/docs/it999instrukcii-po-katalogu-uslug999medlennaya-rabota/medlennaya-rabota-baz-novaya-versiya-reglamenta/",
-          "text": "Медленная работа баз (новая версия регламента)"
+          "text": "Диагностика ошибок синхронизации",
+          "url": "https://corp-portal.tula.scloud.ru/docs/konsultaciya-po-funkcionalu-1s/diagnostika-oshibok-sinhronizaczii/"
         }
       ],
-      "priority": 4,
-      "quickAnswer": "rphost — рабочий процесс кластера серверов 1С (rphost.exe). Высокая нагрузка/зависания часто связаны с производительностью базы или ресурсами сервера. Перезапуск процессов на Windows — около 1:15, на Linux — 00:00; полный перезапуск по воскресеньям."
+      "quickAnswer": "Поиск и устранение проблем синхронизации данных между базами 1С.",
+      "priority": 3
     },
-    "Выгрузка информационных баз пользователю": {
+    "Регламентные задания": {
       "priority": 3,
-      "quickAnswer": "Порядок и правила выгрузки информационных баз по запросу пользователя, в том числе на файлообменник.",
       "links": [
         {
-          "text": "Выгрузка информационных баз пользователю",
-          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-po-zaprosam-polzovatelej/vygruzka-informaczionnyh-baz-polzovatelyu/"
+          "text": "Процедуры включения регламентных заданий",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-raboty-s-sql/proczedury-vklyucheniya-ili-soglasovaniya-vklyucheniya-reglamentnyh-zadanij-dlya-klient-servernyh-baz-v-servise/"
+        }
+      ],
+      "quickAnswer": "Инструкция по включению, согласованию и настройке регламентных (фоновых) заданий в клиент-серверных базах 1С."
+    },
+    "Эскалация на 2-ю линию": {
+      "quickAnswer": "Порядок эскалации заявок на вторую линию: когда передавать, как описывать, что проверяет 2-я линия.",
+      "links": [
+        {
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-raboty-po-zayavkam/eskalacziya-zayavok-na-vtoruyu-liniyu/",
+          "text": "Эскалация заявок на вторую линию"
+        }
+      ],
+      "priority": 4
+    },
+    "Печать": {
+      "links": [
+        {
+          "text": "Сложности работы на LinuxRDP",
+          "url": "https://corp-portal.tula.scloud.ru/docs/linux-kontur/slozhnosti-raboty-na-linuxrdp/"
         },
         {
-          "url": "https://corp-portal.tula.scloud.ru/docs/kopiya-bazy/vygruzka-baz-na-fajloobmennik/",
-          "text": "Выгрузка баз на файлообменник"
+          "url": "https://corp-portal.tula.scloud.ru/docs/otsutstvuet-podklyuchenie-k-baze/diagnostika-problem-s-podklyucheniem/",
+          "text": "Диагностика проблем с подключением"
+        }
+      ],
+      "priority": 3,
+      "quickAnswer": "Проблемы печати из 1С (в т.ч. через RDP/LRDP) чаще связаны с принтером на стороне пользователя, драйверами или ограничениями удалённого рабочего стола. Проверьте: идёт ли печать локально из Блокнота или Word — если нет, клиенту нужно обновить драйверы принтера. Если печать не работает в RDP — аналогично проверьте печать через Блокнот в той же сессии; по результату будет понятно, проблема в принтере или в 1С. В 1С принтер должен быть выбран по умолчанию."
+    },
+    "Вопросы, требующие передачи заявки в другой отдел": {
+      "links": [
+        {
+          "text": "Передача заявок между отделами",
+          "url": "https://corp-portal.tula.scloud.ru/docs/informaciya-dlya-sotrudnikov/voprosy-trebuyushhie-peredachi-zayavki-v-drugoj-otdel/"
+        }
+      ],
+      "priority": 3,
+      "quickAnswer": "Список ситуаций и критериев, когда заявку необходимо передать в другой отдел. Содержит процедуру передачи."
+    },
+    "Работы 2-й линии": {
+      "priority": 3,
+      "quickAnswer": "1-я линия описывает эскалацию в чате «Рабочие вопросы». 2-я линия проверяет задачу и либо согласует эскалацию, либо даёт рекомендации (что ещё проверить / как исправить).",
+      "links": [
+        {
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-po-zaprosam-polzovatelej/platnye-raboty/",
+          "text": "Платные работы"
+        },
+        {
+          "text": "Локальная 1С",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-po-zaprosam-polzovatelej/lokalnaya-1s/"
+        },
+        {
+          "text": "Привлечение 1С-программистов",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-raboty-po-zayavkam/privlechenie-1s-programmistov-dlya-resheniya-zadach-it-ili-1s-konsultantov/"
+        },
+        {
+          "text": "Эскалация на 2-ю линию",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-raboty-po-zayavkam/eskalacziya-zayavok-na-vtoruyu-liniyu/"
         }
       ]
     },
-    "Namespace": {
-      "quickAnswer": "Namespace — группа пользователей, объединённая общими ресурсами (права, базы, настройки).",
+    "Перенос базы в облако": {
+      "quickAnswer": "Перенос базы в облако: выгрузка (.dt / data_dump), загрузка, особенности типовых и КОРП. После переноса — чек-лист проверки; типичная ошибка при конвертации — RecalcTotals («Начало сеанса запрещено»).",
+      "priority": 4,
       "links": [
         {
-          "text": "АРМ СКОП",
-          "url": "https://corp-portal.tula.scloud.ru/docs/instrumenty-servisa/funkczional-arm-operatora-scop/"
+          "text": "Перенос базы в облако",
+          "url": "https://corp-portal.tula.scloud.ru/docs/perenos-bazy-v-oblako/perenos-bazy-v-oblako/"
+        },
+        {
+          "url": "https://corp-portal.tula.scloud.ru/docs/perevod-v-sql/chek-list-proverki-posle-perenosov-baz/",
+          "text": "Чек-лист проверки после переносов баз"
+        },
+        {
+          "url": "https://corp-portal.tula.scloud.ru/docs/hranenie-oshibok-2026/oshibka-nachalo-seansa-s-informaczionnoj-bazoj-zapreshheno-recalctotals-pri-perenose-bazy-v-oblako/",
+          "text": "Ошибка RecalcTotals при переносе в облако"
+        }
+      ]
+    },
+    "Сжатие баз": {
+      "links": [
+        {
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-sql/szhatie-baz/",
+          "text": "Сжатие баз"
+        }
+      ],
+      "quickAnswer": "Инструкция по сжатию информационных баз 1С для уменьшения размера и оптимизации.",
+      "priority": 3
+    },
+    "VPN": {
+      "links": [
+        {
+          "url": "https://corp-portal.tula.scloud.ru/docs/otsutstvuet-podklyuchenie-k-baze/diagnostika-problem-s-podklyucheniem/",
+          "text": "Диагностика проблем с подключением"
+        },
+        {
+          "text": "Медленная работа баз (сетевая диагностика)",
+          "url": "https://corp-portal.tula.scloud.ru/docs/it999instrukcii-po-katalogu-uslug999medlennaya-rabota/medlennaya-rabota-baz-novaya-versiya-reglamenta/"
+        }
+      ],
+      "quickAnswer": "Проблемы доступа через VPN (ключ, подключение, разрывы). Проверьте актуальность VPN-клиента/ключа и выполните сетевую диагностику (пинги terminal.scloud.ru для тонкого клиента/браузера, rds01.scloud.ru для RDP).",
+      "priority": 3
+    },
+    "Приоритизация обращений": {
+      "quickAnswer": "Система оценки и определения приоритетов при обработке обращений пользователей.",
+      "priority": 4,
+      "links": [
+        {
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-raboty-po-zayavkam/prioritizacziya-rabot-s-obrashheniyami/",
+          "text": "Приоритизация работ с обращениями"
+        }
+      ]
+    },
+    "Маркировка и ЕГАИС": {
+      "quickAnswer": "Настройка и типичные ошибки ЕГАИС и маркировки: УТМ, публикация базы через тонкий клиент, сопоставление организаций, СКЗИ/ЭЦП. Для работы с ЕГАИС база должна быть опубликована и открываться через тонкий клиент.",
+      "priority": 4,
+      "links": [
+        {
+          "text": "Настройка ЕГАИС в 1С",
+          "url": "https://corp-portal.tula.scloud.ru/docs/konsultaciya-i-podklyuchenie-torgovogo-oborudovaniya/nastrojka-egais-v-1s/"
+        },
+        {
+          "url": "https://corp-portal.tula.scloud.ru/docs/oshibki-torgovogo-oborudovaniya/sopostavlenie-organizaczij-egais-v-unf-1-6/",
+          "text": "Сопоставление организаций ЕГАИС в УНФ 1.6"
+        },
+        {
+          "text": "Платные работы (ЕГАИС, маркировка, СКЗИ)",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-po-zaprosam-polzovatelej/platnye-raboty/"
+        }
+      ]
+    },
+    "Ошибка профиля безопасности": {
+      "links": [
+        {
+          "text": "Ошибки профиля безопасности",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-raboty-s-sql/pravila-po-rabotam-s-zayavkami-s-oshibkami-profilya-bezopasnosti/"
+        }
+      ],
+      "quickAnswer": "Ошибка возникает, когда сервер 1С пытается выполнить действие, запрещённое текущим профилем безопасности. Нужно проверить настройки профиля или эскалировать.",
+      "priority": 2
+    },
+    "Сложности работы на Linux RDP": {
+      "quickAnswer": "Особенности и типичные проблемы при работе через удалённый рабочий стол на Linux.",
+      "links": [
+        {
+          "url": "https://corp-portal.tula.scloud.ru/docs/linux-kontur/slozhnosti-raboty-na-linuxrdp/",
+          "text": "Linux RDP"
         }
       ],
       "priority": 2
     },
-    "Кэш 1С": {
+    "Медленная работа баз": {
       "priority": 4,
+      "quickAnswer": "Диагностика и действия при низкой производительности информационных баз (новая версия регламента).",
       "links": [
         {
-          "url": "https://corp-portal.tula.scloud.ru/docs/ochistka-diska-w/ochistka-diskovogo-prostranstva/",
-          "text": "Очистка дискового пространства (кэш, временные, журналы) (для файловых баз)"
-        },
+          "text": "Медленная работа баз",
+          "url": "https://corp-portal.tula.scloud.ru/docs/it999instrukcii-po-katalogu-uslug999medlennaya-rabota/medlennaya-rabota-baz-novaya-versiya-reglamenta/"
+        }
+      ]
+    },
+    "Поиск баз и ЭЦП удалённого пользователя": {
+      "quickAnswer": "Как найти информационные базы и ЭЦП удалённого / внешнего пользователя.",
+      "priority": 3,
+      "links": [
         {
-          "url": "https://corp-portal.tula.scloud.ru/docs/it999instrukcii-po-katalogu-uslug999medlennaya-rabota/medlennaya-rabota-baz-novaya-versiya-reglamenta/",
-          "text": "Медленная работа баз (диагностика)"
-        },
+          "url": "https://corp-portal.tula.scloud.ru/docs/kopiya-bazy/kak-najti-bazy-i-eczp-udalennogo-polzovatelya/",
+          "text": "Поиск ИБ и ЭЦП удалённого пользователя"
+        }
+      ]
+    },
+    "Работа с ЭЦП": {
+      "quickAnswer": "Регламент действий сотрудников при работе с электронной цифровой подписью (получение, использование, проблемы).",
+      "links": [
         {
-          "text": "Диагностика проблем с подключением",
-          "url": "https://corp-portal.tula.scloud.ru/docs/otsutstvuet-podklyuchenie-k-baze/diagnostika-problem-s-podklyucheniem/"
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-po-zaprosam-polzovatelej/reglament-dejstvij-sotrudnikov-pri-rabote-s-eczp/",
+          "text": "Регламент действий при работе с ЭЦП"
         }
       ],
-      "quickAnswer": "Очистка локального кэша 1С помогает при странном поведении клиента, ошибках после обновления или «залипших» формах. Для файловых баз на диске W — очистка временных файлов и журналов через АРМ (v8i → Очистить кэш). При медленной работе дополнительно смотрите сетевую диагностику."
+      "priority": 4
     },
-    "Классификаторы 1С": {
+    "Диагностика обменов запросов 1С": {
+      "quickAnswer": "ТП выполняет только диагностику доступности и фиксацию факта отправки/получения HTTPS-запросов из 1С (обмен с сайтом, ЕГАИС и т.п.). Тело запроса не анализируется — данные передаются программисту клиента. Нужна база на сервере с отладкой, права Администратора и настройка прокси mitmproxy (prod-infra-web-mitmproxy-1.foss.scloud.local:8080). После сбора — обязательно отключить прокси.",
       "links": [
         {
-          "text": "Программное средство «Классификаторы 1С»",
-          "url": "https://corp-portal.tula.scloud.ru/docs/zagruzka-obnovleniya-spravochnikov/programmnoe-sredstvo-klassifikatory-1s/"
+          "text": "Диагностика обменов запросов 1С",
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-1s/diagnostika-obmenov-zaprosov-1s/"
+        }
+      ],
+      "priority": 4
+    },
+    "Классификаторы 1С": {
+      "quickAnswer": "Классификаторы 1С (КЛАДР/ФИАС, банки, ОКОФ, ЕНАОФ, МРОТ и др.) загружают и обновляют через «Администрирование → Интернет-поддержка и сервисы → Классификаторы и курсы валют» или через приложение «Классификаторы 1С». Для адресного классификатора есть отдельные каталоги на clusterfs.",
+      "links": [
+        {
+          "url": "https://corp-portal.tula.scloud.ru/docs/zagruzka-obnovleniya-spravochnikov/programmnoe-sredstvo-klassifikatory-1s/",
+          "text": "Программное средство «Классификаторы 1С»"
         },
         {
           "text": "Обновление КЛАДР (ФИАС)",
@@ -425,114 +579,57 @@
           "text": "Загрузка МРОТ"
         },
         {
-          "text": "Каталоги с загрузкой обновлений и справочников",
-          "url": "https://corp-portal.tula.scloud.ru/docs/instrumenty-servisa/katalogi-s-zagruzkoj-obnovlenij-konfiguraczij-i-spravochnikov/"
+          "url": "https://corp-portal.tula.scloud.ru/docs/instrumenty-servisa/katalogi-s-zagruzkoj-obnovlenij-konfiguraczij-i-spravochnikov/",
+          "text": "Каталоги с загрузкой обновлений и справочников"
         }
       ],
-      "priority": 5,
-      "quickAnswer": "Классификаторы 1С (КЛАДР/ФИАС, банки, ОКОФ, ЕНАОФ, МРОТ и др.) загружают и обновляют через «Администрирование → Интернет-поддержка и сервисы → Классификаторы и курсы валют» или через приложение «Классификаторы 1С». Для адресного классификатора есть отдельные каталоги на clusterfs."
-    },
-    "Регламентные задания": {
-      "quickAnswer": "Инструкция по включению, согласованию и настройке регламентных (фоновых) заданий в клиент-серверных базах 1С.",
-      "priority": 3,
-      "links": [
-        {
-          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-raboty-s-sql/proczedury-vklyucheniya-ili-soglasovaniya-vklyucheniya-reglamentnyh-zadanij-dlya-klient-servernyh-baz-v-servise/",
-          "text": "Процедуры включения регламентных заданий"
-        }
-      ]
-    },
-    "Эскалация на 2-ю линию": {
-      "links": [
-        {
-          "text": "Эскалация заявок на вторую линию",
-          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-raboty-po-zayavkam/eskalacziya-zayavok-na-vtoruyu-liniyu/"
-        }
-      ],
-      "priority": 4,
-      "quickAnswer": "Порядок эскалации заявок на вторую линию: когда передавать, как описывать, что проверяет 2-я линия."
-    },
-    "Печать": {
-      "links": [
-        {
-          "url": "https://corp-portal.tula.scloud.ru/docs/linux-kontur/slozhnosti-raboty-na-linuxrdp/",
-          "text": "Сложности работы на LinuxRDP"
-        },
-        {
-          "url": "https://corp-portal.tula.scloud.ru/docs/otsutstvuet-podklyuchenie-k-baze/diagnostika-problem-s-podklyucheniem/",
-          "text": "Диагностика проблем с подключением"
-        }
-      ],
-      "priority": 3,
-      "quickAnswer": "Проблемы печати из 1С (в т.ч. через RDP/LRDP) чаще связаны с принтером на стороне пользователя, драйверами или ограничениями удалённого рабочего стола. Проверьте: идёт ли печать локально из Блокнота или Word — если нет, клиенту нужно обновить драйверы принтера. Если печать не работает в RDP — аналогично проверьте печать через Блокнот в той же сессии; по результату будет понятно, проблема в принтере или в 1С. В 1С принтер должен быть выбран по умолчанию."
-    },
-    "Поиск причин отсутствия обновления базы": {
-      "priority": 3,
-      "links": [
-        {
-          "text": "Диагностика отсутствия обновления",
-          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-1s/poisk-prichin-otsutstviya-obnovleniya-bazy-po-podpiske-na-avtoobnovlenie-perejti-k-konczu-metadannyh/"
-        }
-      ],
-      "quickAnswer": "Диагностика и устранение причин, по которым база не обновляется по подписке на автообновление."
-    },
-    "VRD и публикация": {
-      "links": [
-        {
-          "url": "https://corp-portal.tula.scloud.ru/docs/publikaciya-servisov/publikacziya-informaczionnyh-baz-web-i-http-servisov/",
-          "text": "Публикация баз и сервисов 1С: WEB, HTTP, OData"
-        }
-      ],
-      "priority": 3,
-      "quickAnswer": "Публикация информационных баз и сервисов 1С: WEB, HTTP, OData (бывшие отдельные статьи VRD/ODATA объединены в одну)."
-    },
-    "Диагностика ошибок синхронизации": {
-      "priority": 3,
-      "links": [
-        {
-          "url": "https://corp-portal.tula.scloud.ru/docs/konsultaciya-po-funkcionalu-1s/diagnostika-oshibok-sinhronizaczii/",
-          "text": "Диагностика ошибок синхронизации"
-        }
-      ],
-      "quickAnswer": "Поиск и устранение проблем синхронизации данных между базами 1С."
+      "priority": 5
     },
     "СЛК": {
-      "quickAnswer": "Работа с системой лицензирования 1С (СЛК) и устранение распространённых ошибок лицензирования и переносом отраслевых конфигураций.",
-      "priority": 4,
       "links": [
         {
           "text": "Диагностика ошибок СЛК",
           "url": "https://corp-portal.tula.scloud.ru/docs/otsutstvuet-podklyuchenie-k-baze/slk-i-diagnostika-ego-oshibok/"
         },
         {
-          "url": "https://corp-portal.tula.scloud.ru/docs/perenos-otraslevoj-konfiguracii/perenos-bazy-dannyh-otraslevoj-konfiguraczii/",
-          "text": "Перенос базы данных отраслевой конфигурации"
+          "text": "Перенос базы данных отраслевой конфигурации",
+          "url": "https://corp-portal.tula.scloud.ru/docs/perenos-otraslevoj-konfiguracii/perenos-bazy-dannyh-otraslevoj-konfiguraczii/"
         },
         {
-          "url": "https://corp-portal.tula.scloud.ru/docs/perenos-otraslevoj-konfiguracii/razmeshhenie-otraslevoj-konfiguraczii/",
-          "text": "Размещение отраслевой конфигурации"
-        }
-      ]
-    },
-    "Диагностика обменов запросов 1С": {
-      "links": [
-        {
-          "text": "Диагностика обменов запросов 1С",
-          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-1s/diagnostika-obmenov-zaprosov-1s/"
+          "text": "Размещение отраслевой конфигурации",
+          "url": "https://corp-portal.tula.scloud.ru/docs/perenos-otraslevoj-konfiguracii/razmeshhenie-otraslevoj-konfiguraczii/"
         }
       ],
+      "quickAnswer": "Работа с системой лицензирования 1С (СЛК) и устранение распространённых ошибок лицензирования и переносом отраслевых конфигураций.",
+      "priority": 4
+    },
+    "rphost": {
       "priority": 4,
-      "quickAnswer": "ТП выполняет только диагностику доступности и фиксацию факта отправки/получения HTTPS-запросов из 1С (обмен с сайтом, ЕГАИС и т.п.). Тело запроса не анализируется — данные передаются программисту клиента. Нужна база на сервере с отладкой, права Администратора и настройка прокси mitmproxy (prod-infra-web-mitmproxy-1.foss.scloud.local:8080). После сбора — обязательно отключить прокси."
+      "links": [
+        {
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-sql/perezapusk-servera-1s-predpriyatiya/",
+          "text": "Перезапуск сервера 1С Предприятия"
+        },
+        {
+          "url": "https://corp-portal.tula.scloud.ru/docs/administrirovanie-sistem-na-1s/spisok-rabochih-proczessov/",
+          "text": "Список рабочих процессов"
+        },
+        {
+          "url": "https://corp-portal.tula.scloud.ru/docs/it999instrukcii-po-katalogu-uslug999medlennaya-rabota/medlennaya-rabota-baz-novaya-versiya-reglamenta/",
+          "text": "Медленная работа баз (новая версия регламента)"
+        }
+      ],
+      "quickAnswer": "rphost — рабочий процесс кластера серверов 1С (rphost.exe). Высокая нагрузка/зависания часто связаны с производительностью базы или ресурсами сервера. Перезапуск процессов на Windows — около 1:15, на Linux — 00:00; полный перезапуск по воскресеньям."
     },
     "Тонкий клиент": {
       "links": [
         {
-          "text": "Настройка доступа через тонкий клиент",
-          "url": "https://corp-portal.tula.scloud.ru/docs/nastrojka-podklyucheniya-k-oblaku/nastrojka-dostupa-cherez-tonkij-klient/"
+          "url": "https://corp-portal.tula.scloud.ru/docs/nastrojka-podklyucheniya-k-oblaku/nastrojka-dostupa-cherez-tonkij-klient/",
+          "text": "Настройка доступа через тонкий клиент"
         },
         {
-          "text": "Установка тонкого клиента на Linux",
-          "url": "https://corp-portal.tula.scloud.ru/docs/nastrojka-podklyucheniya-k-oblaku/ustanovka-tonkogo-klienta-na-linux/"
+          "url": "https://corp-portal.tula.scloud.ru/docs/nastrojka-podklyucheniya-k-oblaku/ustanovka-tonkogo-klienta-na-linux/",
+          "text": "Установка тонкого клиента на Linux"
         },
         {
           "text": "Диагностика проблем с подключением",
@@ -546,69 +643,63 @@
       "priority": 4,
       "quickAnswer": "Тонкий клиент 1С — приложение для запуска баз через web-публикацию. Установка на Windows и Linux, настройка доступа, типичные ошибки (в т.ч. «Не найден Data1.cab» при кириллице в пути — перенести инсталлятор в путь без кириллицы)."
     },
-    "Вопросы, требующие передачи заявки в другой отдел": {
+    "Namespace": {
+      "quickAnswer": "Namespace — группа пользователей, объединённая общими ресурсами (права, базы, настройки).",
       "links": [
         {
-          "url": "https://corp-portal.tula.scloud.ru/docs/informaciya-dlya-sotrudnikov/voprosy-trebuyushhie-peredachi-zayavki-v-drugoj-otdel/",
-          "text": "Передача заявок между отделами"
+          "text": "АРМ СКОП",
+          "url": "https://corp-portal.tula.scloud.ru/docs/instrumenty-servisa/funkczional-arm-operatora-scop/"
         }
       ],
-      "priority": 3,
-      "quickAnswer": "Список ситуаций и критериев, когда заявку необходимо передать в другой отдел. Содержит процедуру передачи."
+      "priority": 2
     },
-    "Сложности работы на Linux RDP": {
-      "priority": 2,
+    "Обновление баз": {
+      "quickAnswer": "ТП обновляет базы по запросу только в период отчётности или по VIP-подписке. В остальных случаях пользователь обновляет самостоятельно через Автоматизатор, конфигуратор или автообновление в ЛК. Есть исключения — см. регламент.",
+      "priority": 4,
       "links": [
         {
-          "url": "https://corp-portal.tula.scloud.ru/docs/linux-kontur/slozhnosti-raboty-na-linuxrdp/",
-          "text": "Linux RDP"
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-po-obnovleniyam-baz-i-platformy/reglament-po-obnovleniyu-baz/",
+          "text": "Регламент по обновлению баз"
+        },
+        {
+          "url": "https://corp-portal.tula.scloud.ru/docs/instrumenty-servisa/avtomaticheskoe-obnovlenie-baz-2/",
+          "text": "Автоматическое обновление баз"
+        },
+        {
+          "text": "Диагностика ошибок баз на автообновлении",
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-1s/diagnostika-oshibok-baz-na-avtoobnovlenii/"
+        },
+        {
+          "url": "https://corp-portal.tula.scloud.ru/docs/konsultaciya-po-obnovleniyu/avtomatizator-obnovlenij/",
+          "text": "Автоматизатор обновлений"
+        },
+        {
+          "text": "Резервные копии Автоматизатора",
+          "url": "https://corp-portal.tula.scloud.ru/docs/kopiya-bazy/rezervnye-kopii-prilozheniya-obnovlenie-1s/"
         }
-      ],
-      "quickAnswer": "Особенности и типичные проблемы при работе через удалённый рабочий стол на Linux."
+      ]
     },
-    "Работы 2-й линии": {
+    "techsupport": {
+      "quickAnswer": "techsupport — это пользователь от личного кабинета scloud.ru, все взаимодействия происходят оттуда. Зайти можно через ЛКМ.\nВсе базы создаются на служебном узле sql-pg-ns999.\nУдаление баз производится через личный кабинет.",
       "links": [
         {
-          "text": "Платные работы",
-          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-po-zaprosam-polzovatelej/platnye-raboty/"
-        },
-        {
-          "text": "Локальная 1С",
-          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-po-zaprosam-polzovatelej/lokalnaya-1s/"
-        },
-        {
-          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-raboty-po-zayavkam/privlechenie-1s-programmistov-dlya-resheniya-zadach-it-ili-1s-konsultantov/",
-          "text": "Привлечение 1С-программистов"
-        },
-        {
-          "text": "Эскалация на 2-ю линию",
-          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-raboty-po-zayavkam/eskalacziya-zayavok-na-vtoruyu-liniyu/"
+          "url": "https://corp-portal.tula.scloud.ru/docs/instrumenty-servisa/rabota-s-sluzhebnymi-bazami-cherez-techsupport/",
+          "text": "Работа с служебными базами через techsupport"
         }
       ],
-      "quickAnswer": "1-я линия описывает эскалацию в чате «Рабочие вопросы». 2-я линия проверяет задачу и либо согласует эскалацию, либо даёт рекомендации (что ещё проверить / как исправить).",
       "priority": 3
     },
-    "Маркировка и ЕГАИС": {
-      "priority": 4,
+    "Тестовый аккаунт облака для сотрудников": {
+      "priority": 2,
+      "quickAnswer": "Порядок получения и использования тестовых облачных аккаунтов сотрудниками для тестирования и обучения.",
       "links": [
         {
-          "text": "Настройка ЕГАИС в 1С",
-          "url": "https://corp-portal.tula.scloud.ru/docs/konsultaciya-i-podklyuchenie-torgovogo-oborudovaniya/nastrojka-egais-v-1s/"
-        },
-        {
-          "url": "https://corp-portal.tula.scloud.ru/docs/oshibki-torgovogo-oborudovaniya/sopostavlenie-organizaczij-egais-v-unf-1-6/",
-          "text": "Сопоставление организаций ЕГАИС в УНФ 1.6"
-        },
-        {
-          "text": "Платные работы (ЕГАИС, маркировка, СКЗИ)",
-          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-po-zaprosam-polzovatelej/platnye-raboty/"
+          "url": "https://corp-portal.tula.scloud.ru/docs/informaciya-dlya-sotrudnikov/testovyj-akkaunt-oblaka-dlya-sotrudnikov/",
+          "text": "Тестовый аккаунт облака"
         }
-      ],
-      "quickAnswer": "Настройка и типичные ошибки ЕГАИС и маркировки: УТМ, публикация базы через тонкий клиент, сопоставление организаций, СКЗИ/ЭЦП. Для работы с ЕГАИС база должна быть опубликована и открываться через тонкий клиент."
+      ]
     },
     "Отладка": {
-      "priority": 4,
-      "quickAnswer": "В сервисе отладка предоставляется по протоколу HTTP. Настраивать отладку необходимо в сеансе пользователя. Для файловых баз HTTP-отладка недоступна — нужен перенос в клиент-сервер на контур с отладкой.",
       "links": [
         {
           "text": "Отладка по HTTP",
@@ -619,56 +710,74 @@
           "url": "https://corp-portal.tula.scloud.ru/docs/kopiya-bazy/predostavlenie-kopii-klient-servernoj-ib/"
         },
         {
-          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-raboty-s-sql/pravila-po-rabotam-s-zayavkami-s-oshibkami-profilya-bezopasnosti/",
-          "text": "Ошибки профиля безопасности"
-        }
-      ]
-    },
-    "Работа с ЭЦП": {
-      "links": [
-        {
-          "text": "Регламент действий при работе с ЭЦП",
-          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-po-zaprosam-polzovatelej/reglament-dejstvij-sotrudnikov-pri-rabote-s-eczp/"
+          "text": "Ошибки профиля безопасности",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-raboty-s-sql/pravila-po-rabotam-s-zayavkami-s-oshibkami-profilya-bezopasnosti/"
         }
       ],
-      "quickAnswer": "Регламент действий сотрудников при работе с электронной цифровой подписью (получение, использование, проблемы).",
-      "priority": 4
+      "priority": 4,
+      "quickAnswer": "В сервисе отладка предоставляется по протоколу HTTP. Настраивать отладку необходимо в сеансе пользователя. Для файловых баз HTTP-отладка недоступна — нужен перенос в клиент-сервер на контур с отладкой."
     },
-    "Обновление баз": {
-      "quickAnswer": "ТП обновляет базы по запросу только в период отчётности или по VIP-подписке. В остальных случаях пользователь обновляет самостоятельно через Автоматизатор, конфигуратор или автообновление в ЛК. Есть исключения — см. регламент.",
+    "Поиск причин отсутствия обновления базы": {
+      "priority": 3,
+      "links": [
+        {
+          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-1s/poisk-prichin-otsutstviya-obnovleniya-bazy-po-podpiske-na-avtoobnovlenie-perejti-k-konczu-metadannyh/",
+          "text": "Диагностика отсутствия обновления"
+        }
+      ],
+      "quickAnswer": "Диагностика и устранение причин, по которым база не обновляется по подписке на автообновление."
+    },
+    "VRD и публикация": {
+      "links": [
+        {
+          "text": "Публикация баз и сервисов 1С: WEB, HTTP, OData",
+          "url": "https://corp-portal.tula.scloud.ru/docs/publikaciya-servisov/publikacziya-informaczionnyh-baz-web-i-http-servisov/"
+        }
+      ],
+      "priority": 3,
+      "quickAnswer": "Публикация информационных баз и сервисов 1С: WEB, HTTP, OData (бывшие отдельные статьи VRD/ODATA объединены в одну)."
+    },
+    "Кэш 1С": {
       "priority": 4,
       "links": [
         {
-          "text": "Регламент по обновлению баз",
-          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-po-obnovleniyam-baz-i-platformy/reglament-po-obnovleniyu-baz/"
+          "text": "Очистка дискового пространства (кэш, временные, журналы) (для файловых баз)",
+          "url": "https://corp-portal.tula.scloud.ru/docs/ochistka-diska-w/ochistka-diskovogo-prostranstva/"
         },
         {
-          "url": "https://corp-portal.tula.scloud.ru/docs/instrumenty-servisa/avtomaticheskoe-obnovlenie-baz-2/",
-          "text": "Автоматическое обновление баз"
+          "url": "https://corp-portal.tula.scloud.ru/docs/it999instrukcii-po-katalogu-uslug999medlennaya-rabota/medlennaya-rabota-baz-novaya-versiya-reglamenta/",
+          "text": "Медленная работа баз (диагностика)"
         },
         {
-          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-1s/diagnostika-oshibok-baz-na-avtoobnovlenii/",
-          "text": "Диагностика ошибок баз на автообновлении"
-        },
-        {
-          "text": "Автоматизатор обновлений",
-          "url": "https://corp-portal.tula.scloud.ru/docs/konsultaciya-po-obnovleniyu/avtomatizator-obnovlenij/"
-        },
-        {
-          "url": "https://corp-portal.tula.scloud.ru/docs/kopiya-bazy/rezervnye-kopii-prilozheniya-obnovlenie-1s/",
-          "text": "Резервные копии Автоматизатора"
-        }
-      ]
-    },
-    "Тестовый аккаунт облака для сотрудников": {
-      "links": [
-        {
-          "text": "Тестовый аккаунт облака",
-          "url": "https://corp-portal.tula.scloud.ru/docs/informaciya-dlya-sotrudnikov/testovyj-akkaunt-oblaka-dlya-sotrudnikov/"
+          "text": "Диагностика проблем с подключением",
+          "url": "https://corp-portal.tula.scloud.ru/docs/otsutstvuet-podklyuchenie-k-baze/diagnostika-problem-s-podklyucheniem/"
         }
       ],
-      "priority": 2,
-      "quickAnswer": "Порядок получения и использования тестовых облачных аккаунтов сотрудниками для тестирования и обучения."
+      "quickAnswer": "Очистка локального кэша 1С помогает при странном поведении клиента, ошибках после обновления или «залипших» формах. Для файловых баз на диске W — очистка временных файлов и журналов через АРМ (v8i → Очистить кэш). При медленной работе дополнительно смотрите сетевую диагностику."
+    },
+    "Выгрузка информационных баз пользователю": {
+      "quickAnswer": "Порядок и правила выгрузки информационных баз по запросу пользователя, в том числе на файлообменник.",
+      "links": [
+        {
+          "text": "Выгрузка информационных баз пользователю",
+          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-po-zaprosam-polzovatelej/vygruzka-informaczionnyh-baz-polzovatelyu/"
+        },
+        {
+          "url": "https://corp-portal.tula.scloud.ru/docs/kopiya-bazy/vygruzka-baz-na-fajloobmennik/",
+          "text": "Выгрузка баз на файлообменник"
+        }
+      ],
+      "priority": 3
+    },
+    "Принципы корпоративной культуры": {
+      "priority": 5,
+      "links": [
+        {
+          "url": "https://corp-portal.tula.scloud.ru/docs/organizacionnaya-informaciya-otdela/princzipy-korporativnoj-kultury/",
+          "text": "Корпоративная культура"
+        }
+      ],
+      "quickAnswer": "Основные ценности, нормы поведения и правила взаимодействия сотрудников. Формирует стандарты общения и рабочую среду."
     },
     "Общие принципы работы IT отдела": {
       "links": [
@@ -677,100 +786,8 @@
           "url": "https://corp-portal.tula.scloud.ru/docs/organizacionnaya-informaciya-otdela/obshhie-princzipy-raboty-it-otdela/"
         }
       ],
-      "quickAnswer": "Основные принципы организации работы IT-отдела, зоны ответственности и правила взаимодействия.",
-      "priority": 5
-    },
-    "VPN": {
-      "quickAnswer": "Проблемы доступа через VPN (ключ, подключение, разрывы). Проверьте актуальность VPN-клиента/ключа и выполните сетевую диагностику (пинги terminal.scloud.ru для тонкого клиента/браузера, rds01.scloud.ru для RDP).",
-      "priority": 3,
-      "links": [
-        {
-          "text": "Диагностика проблем с подключением",
-          "url": "https://corp-portal.tula.scloud.ru/docs/otsutstvuet-podklyuchenie-k-baze/diagnostika-problem-s-podklyucheniem/"
-        },
-        {
-          "text": "Медленная работа баз (сетевая диагностика)",
-          "url": "https://corp-portal.tula.scloud.ru/docs/it999instrukcii-po-katalogu-uslug999medlennaya-rabota/medlennaya-rabota-baz-novaya-versiya-reglamenta/"
-        }
-      ]
-    },
-    "Принципы корпоративной культуры": {
       "priority": 5,
-      "quickAnswer": "Основные ценности, нормы поведения и правила взаимодействия сотрудников. Формирует стандарты общения и рабочую среду.",
-      "links": [
-        {
-          "url": "https://corp-portal.tula.scloud.ru/docs/organizacionnaya-informaciya-otdela/princzipy-korporativnoj-kultury/",
-          "text": "Корпоративная культура"
-        }
-      ]
-    },
-    "Ошибка профиля безопасности": {
-      "quickAnswer": "Ошибка возникает, когда сервер 1С пытается выполнить действие, запрещённое текущим профилем безопасности. Нужно проверить настройки профиля или эскалировать.",
-      "links": [
-        {
-          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-raboty-s-sql/pravila-po-rabotam-s-zayavkami-s-oshibkami-profilya-bezopasnosti/",
-          "text": "Ошибки профиля безопасности"
-        }
-      ],
-      "priority": 2
-    },
-    "Приоритизация обращений": {
-      "priority": 4,
-      "quickAnswer": "Система оценки и определения приоритетов при обработке обращений пользователей.",
-      "links": [
-        {
-          "text": "Приоритизация работ с обращениями",
-          "url": "https://corp-portal.tula.scloud.ru/docs/reglamenty-raboty-po-zayavkam/prioritizacziya-rabot-s-obrashheniyami/"
-        }
-      ]
-    },
-    "Медленная работа баз": {
-      "quickAnswer": "Диагностика и действия при низкой производительности информационных баз (новая версия регламента).",
-      "priority": 4,
-      "links": [
-        {
-          "url": "https://corp-portal.tula.scloud.ru/docs/it999instrukcii-po-katalogu-uslug999medlennaya-rabota/medlennaya-rabota-baz-novaya-versiya-reglamenta/",
-          "text": "Медленная работа баз"
-        }
-      ]
-    },
-    "Сжатие баз": {
-      "quickAnswer": "Инструкция по сжатию информационных баз 1С для уменьшения размера и оптимизации.",
-      "links": [
-        {
-          "url": "https://corp-portal.tula.scloud.ru/docs/rabota-s-sql/szhatie-baz/",
-          "text": "Сжатие баз"
-        }
-      ],
-      "priority": 3
-    },
-    "Перенос базы в облако": {
-      "links": [
-        {
-          "text": "Перенос базы в облако",
-          "url": "https://corp-portal.tula.scloud.ru/docs/perenos-bazy-v-oblako/perenos-bazy-v-oblako/"
-        },
-        {
-          "text": "Чек-лист проверки после переносов баз",
-          "url": "https://corp-portal.tula.scloud.ru/docs/perevod-v-sql/chek-list-proverki-posle-perenosov-baz/"
-        },
-        {
-          "url": "https://corp-portal.tula.scloud.ru/docs/hranenie-oshibok-2026/oshibka-nachalo-seansa-s-informaczionnoj-bazoj-zapreshheno-recalctotals-pri-perenose-bazy-v-oblako/",
-          "text": "Ошибка RecalcTotals при переносе в облако"
-        }
-      ],
-      "quickAnswer": "Перенос базы в облако: выгрузка (.dt / data_dump), загрузка, особенности типовых и КОРП. После переноса — чек-лист проверки; типичная ошибка при конвертации — RecalcTotals («Начало сеанса запрещено»).",
-      "priority": 4
-    },
-    "Поиск баз и ЭЦП удалённого пользователя": {
-      "links": [
-        {
-          "url": "https://corp-portal.tula.scloud.ru/docs/kopiya-bazy/kak-najti-bazy-i-eczp-udalennogo-polzovatelya/",
-          "text": "Поиск ИБ и ЭЦП удалённого пользователя"
-        }
-      ],
-      "priority": 3,
-      "quickAnswer": "Как найти информационные базы и ЭЦП удалённого / внешнего пользователя."
+      "quickAnswer": "Основные принципы организации работы IT-отдела, зоны ответственности и правила взаимодействия."
     }
   }
 }
